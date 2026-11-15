@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T04:05:54.610Z",
+  "updated_at": "2026-11-15T05:12:39.643Z",
   "total_count": 33,
   "jobs": [
     {
@@ -11,7 +11,7 @@
       "location": "Pan India / Central Govt Departments",
       "type": "Full Time (Govt)",
       "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
-      "published_at": "2026-11-14T04:05:54.609Z",
+      "published_at": "2026-11-15T05:12:39.643Z",
       "url": "https://ssc.gov.in/",
       "tags": [
         "SSC CGL",
@@ -31,7 +31,7 @@
       "location": "All India Bank Branches",
       "type": "Full Time (Banking)",
       "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
-      "published_at": "2026-11-14T04:05:54.609Z",
+      "published_at": "2026-11-15T05:12:39.643Z",
       "url": "https://sbi.co.in/web/careers",
       "tags": [
         "Bank PO",
@@ -51,7 +51,7 @@
       "location": "Pan India Railway Zones",
       "type": "Govt Technical",
       "salary": "Level 6 CPC Matrix",
-      "published_at": "2026-11-14T04:05:54.609Z",
+      "published_at": "2026-11-15T05:12:39.643Z",
       "url": "https://indianrailways.gov.in/",
       "tags": [
         "RRB JE",
@@ -372,272 +372,274 @@
       "source": "Remotive Verified"
     },
     {
-      "id": "arbeit-ai-native-software-engineer-berlin-186419",
-      "title": "AI-Native Software Engineer (m/w/d)",
-      "company": "vitaservices GmbH & Co. KG",
+      "id": "arbeit-account-executive-europe-berlin-chemnitz-sachsen-dresden-sachsen-koln-nordrhein-westfalen-munchen-bayern-350607",
+      "title": "Account Executive Europe",
+      "company": "Staffbase",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin; Chemnitz, Sachsen; Dresden, Sachsen; Köln, Nordrhein-Westfalen; München, Bayern",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T03:55:14.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/account-executive-europe-berlin-chemnitz-sachsen-dresden-sachsen-koln-nordrhein-westfalen-munchen-bayern-350607",
+      "tags": [
+        "Account Executives"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Staffbase&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We inspire people to achieve great things ...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-elektriker-aachen-280453",
+      "title": "Elektriker (m/w/d)",
+      "company": "Black Semiconductor GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Aachen, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T03:40:12.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/elektriker-aachen-280453",
+      "tags": [
+        "Fab Management"
+      ],
+      "description": "Gestalte mit uns die Zukunft der Chipindustrie – von Anfang an!Deine Rolle bei Black SemiconductorBei Black Semiconductor entwickeln wir eine neue Generation de...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-working-student-data-ai-aachen-356566",
+      "title": "Working Student – Data & AI  (f/m/d)",
+      "company": "Black Semiconductor GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Aachen, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T03:40:12.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/working-student-data-ai-aachen-356566",
+      "tags": [
+        "IT",
+        "Data & AI Department"
+      ],
+      "description": "Your RoleAs a Working Student in our Data &amp; AI department, you will support the team across a range of projects and help bring Black Semiconductor’s AI-firs...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-pic-layout-engineer-aachen-499082",
+      "title": "PIC Layout Engineer (f/m/d)",
+      "company": "Black Semiconductor GmbH",
+      "company_logo": "",
+      "category": "design",
+      "location": "Aachen, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T03:40:12.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/pic-layout-engineer-aachen-499082",
+      "tags": [
+        "Design Enablement"
+      ],
+      "description": "About usWe see the semiconductor industry as a realm of possibility. We see opportunity. We see the profound impact that our graphene solutions will have in tra...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-growth-strategist-all-genders-berlin-204779",
+      "title": "Growth Strategist (all genders)",
+      "company": "JustPlay GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin (Hybrid)",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-15T03:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/growth-strategist-all-genders-berlin-204779",
+      "tags": [
+        "Growth"
+      ],
+      "description": "JustPlay is looking for a Growth Strategist to join our User Acquisition team. As we continue scaling our growth efforts, we're looking for someone who can iden...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-sales-manager-berlin-178120",
+      "title": "(Senior) Sales Manager (m/w/d)",
+      "company": "Liqid Lam",
       "company_logo": "",
       "category": "tech",
       "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T02:30:37.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/vitaservices-gmbh-co-kg/ai-native-software-engineer-berlin-186419",
+      "published_at": "2026-11-15T03:40:10.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/liqid-lam/senior-sales-manager-berlin-178120",
       "tags": [
-        "Software Development"
+        "Clients"
       ],
-      "description": "Dein Plus bei Health Dialog Solutions\nWir entwickeln Software, IT-Services und digitale Lösungen für Kassenärztliche Vereinigungen und Krankenversicherungen. Un...",
+      "description": "Deine RolleAls (Senior) Sales Manager (w/m/d) bekommst du die Chance, aktiv zum Erfolg und Wachstum unseres Unternehmens beizutragen. In dieser zentralen Rolle ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-working-student-legal-operations-and-technology-munich-482669",
-      "title": "Working Student Legal Operations and Technology",
-      "company": "celonis",
+      "id": "arbeit-senior-crm-lifecycle-manager-berlin-30191",
+      "title": "Senior CRM & Lifecycle Manager",
+      "company": "Cosuno",
       "company_logo": "",
-      "category": "tech",
-      "location": "Munich",
+      "category": "marketing",
+      "location": "Berlin/Remote",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/working-student-legal-operations-and-technology-munich-482669",
+      "published_at": "2026-11-15T03:40:10.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-crm-lifecycle-manager-berlin-30191",
       "tags": [
-        "Legal"
+        "Marketing"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — w...",
+      "description": "Your missionCosuno is a platform for construction tendering in the German-speaking market. It connects general contractors, who publish bid packages, with subco...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-software-engineer-query-engine-database-systems-munich-4419",
-      "title": "Senior Software Engineer - Query Engine & Database Systems",
-      "company": "celonis",
+      "id": "arbeit-senior-data-analyst-berlin-443903",
+      "title": "Senior Data Analyst",
+      "company": "Cosuno",
       "company_logo": "",
       "category": "tech",
-      "location": "Munich",
+      "location": "Berlin/Remote",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-software-engineer-query-engine-database-systems-munich-4419",
+      "published_at": "2026-11-15T03:40:10.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-data-analyst-berlin-443903",
       "tags": [
-        "Engineering"
+        "Tech"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — w...",
+      "description": "Your missionWe're a small data team with a big job: helping everyone at Cosuno make better decisions. Our data platform is stable and in good hands. What we nee...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-software-engineer-engine-orchestration-munich-205702",
-      "title": "Senior Software Engineer - Engine Orchestration",
-      "company": "celonis",
+      "id": "arbeit-schichtleiter-teamleiter-verpackung-fur-das-bifi-werk-in-guben-guben-401092",
+      "title": "Schichtleiter / Teamleiter Verpackung (m/w/d) für das BiFi Werk in Guben",
+      "company": "Ritter von Gral GmbH",
       "company_logo": "",
       "category": "tech",
-      "location": "Munich",
+      "location": "Guben , Brandenburg, Deutschland",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-software-engineer-engine-orchestration-munich-205702",
+      "published_at": "2026-11-15T03:31:14.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/schichtleiter-teamleiter-verpackung-fur-das-bifi-werk-in-guben-guben-401092",
       "tags": [
-        "Engineering"
+        "LSI Germany GmbH"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — w...",
+      "description": "Umsetzung aller für die Fertigung relevanten Vorgaben (intern + extern), wie Herstellmethoden, Richtlinien zur Betriebs- und Personalhygiene, UVV- und EU-Richtl...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-software-engineer-munich-59079",
-      "title": "Senior Software Engineer",
-      "company": "celonis",
+      "id": "arbeit-remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
+      "title": "Senior Data Engineer & Consultant (all genders) – Microsoft Fabric",
+      "company": "teccle group GmbH",
       "company_logo": "",
       "category": "tech",
-      "location": "Munich",
-      "type": "Full Time",
+      "location": "Homeoffice",
+      "type": "Remote",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-software-engineer-munich-59079",
+      "published_at": "2026-11-15T03:31:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
       "tags": [
-        "Engineering"
+        "Professional",
+        "Remote"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — w...",
+      "description": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unte...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-enterprise-ai-consultant-munich-100196",
-      "title": "Enterprise AI Consultant",
-      "company": "celonis",
+      "id": "arbeit-senior-customer-success-manager-all-genders-munchen-437893",
+      "title": "Senior Customer Success Manager (all genders)",
+      "company": "Foodji GmbH",
       "company_logo": "",
       "category": "tech",
-      "location": "Munich",
+      "location": "München, Bayern, Deutschland",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/enterprise-ai-consultant-munich-100196",
+      "published_at": "2026-11-15T03:31:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-customer-success-manager-all-genders-munchen-437893",
       "tags": [
-        "Services"
+        "Account Management"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — w...",
+      "description": "Gestalte das perfekte Foodji-ErlebnisEin großartiges Produkt allein reicht nicht – echte Kundenzufriedenheit entsteht durch starke Beziehungen und einen klaren ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-software-engineer-proactive-security-berlin-19007",
-      "title": "Senior Software Engineer, Proactive Security",
-      "company": "wolt",
+      "id": "arbeit-senior-recruiter-talent-acquisition-manager-all-genders-munchen-486820",
+      "title": "Senior Recruiter / Talent Acquisition Manager (all genders)",
+      "company": "Foodji GmbH",
       "company_logo": "",
       "category": "tech",
-      "location": "Berlin",
+      "location": "München, Bayern, Deutschland",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:24.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-software-engineer-proactive-security-berlin-19007",
+      "published_at": "2026-11-15T03:31:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-recruiter-talent-acquisition-manager-all-genders-munchen-486820",
       "tags": [
-        "Security Engineering (Information Security)"
+        "People & Culture"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span data-sheets...",
+      "description": "Wir öffnen eine neue, zentrale Position in unserem Team: eine Person, die Recruiting nicht als Aufgabe, sondern als Handwerk und Hebel für Unternehmenserfolg ve...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-space-systems-engineer-mission-optimization-berlin-235484",
-      "title": "Senior Space Systems Engineer, Mission Optimization",
-      "company": "planetlabs",
+      "id": "arbeit-senior-business-financial-analyst-all-genders-munchen-179841",
+      "title": "(Senior) Business & Financial Analyst (all genders)",
+      "company": "Foodji GmbH",
       "company_logo": "",
       "category": "tech",
-      "location": "Berlin",
+      "location": "München, Bayern, Deutschland",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:24.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-space-systems-engineer-mission-optimization-berlin-235484",
+      "published_at": "2026-11-15T03:31:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-business-financial-analyst-all-genders-munchen-179841",
       "tags": [
-        "Mission Systems"
+        "Business Intelligence"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt;\n&...",
+      "description": "Foodji macht frisches, gutes Essen im Büro jederzeit verfügbar. Unsere autonomen Foodjis stehen in bald tausend Unternehmen in Deutschland, jede Transaktion, je...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-engineering-program-manager-berlin-146457",
-      "title": "Senior Engineering Program Manager",
-      "company": "planetlabs",
+      "id": "arbeit-autosar-embedded-software-engineer-koblenz-germany-129614",
+      "title": "AUTOSAR Embedded Software Engineer (m/w/d)",
+      "company": "Mobileye",
       "company_logo": "",
       "category": "tech",
-      "location": "Berlin",
+      "location": "Koblenz, Germany",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:24.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/senior-engineering-program-manager-berlin-146457",
+      "published_at": "2026-11-15T03:27:14.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/mobileye/autosar-embedded-software-engineer-koblenz-germany-129614",
       "tags": [
-        "Engineering Program Management"
+        "Software"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt;\n&...",
+      "description": "Mobileye’s Automotive Software development team is looking for SW developers to work on the cutting-edge of technologies bringing to market Mobileye Autosar sel...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-data-analyst-aml-berlin-3972",
-      "title": "Data analyst - AML",
-      "company": "sumup",
+      "id": "arbeit-ai-platform-engineer-germany-385581",
+      "title": "AI Platform Engineer",
+      "company": "Jobgether",
       "company_logo": "",
       "category": "tech",
-      "location": "Berlin",
+      "location": "Germany",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:24.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/data-analyst-aml-berlin-3972",
+      "published_at": "2026-11-15T03:27:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-platform-engineer-germany-385581",
       "tags": [
-        "Data & Analytics"
+        "IT"
       ],
-      "description": "&lt;p&gt;&lt;strong&gt;About the team:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At SumUp, keeping our platform safe and compliant is critical to the trust of the milli...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-teamleiter-logistik-heidelberg-baden-wurttemberg-291118",
-      "title": "Teamleiter Logistik (m/w/d)",
-      "company": "Teampicnic",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Heidelberg, Baden-Württemberg",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:21.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-heidelberg-baden-wurttemberg-291118",
-      "tags": [
-        "Operations"
-      ],
-      "description": "&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Suchst du eine Führungsrolle, in der deine positive En...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-teamleiter-logistik-viernheim-hesse-419830",
-      "title": "Teamleiter Logistik (m/w/d)",
-      "company": "Teampicnic",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Viernheim, Hesse",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:21.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-viernheim-hesse-419830",
-      "tags": [
-        "Operations"
-      ],
-      "description": "&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Suchst du eine Führungsrolle, in der deine positive Energie und dein Teamgeist den Unt...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-teamleiter-logistik-mannheim-baden-wurttemberg-382326",
-      "title": "Teamleiter Logistik (m/w/d)",
-      "company": "Teampicnic",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Mannheim, Baden-Württemberg",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:21.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-mannheim-baden-wurttemberg-382326",
-      "tags": [
-        "Operations"
-      ],
-      "description": "&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Suchst du eine Führungsrolle, in der deine positive En...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-teamleiter-logistik-bergkamen-north-rhine-westphalia-170449",
-      "title": "Teamleiter Logistik (m/w/d)",
-      "company": "Teampicnic",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Bergkamen, North Rhine-Westphalia",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:21.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-bergkamen-north-rhine-westphalia-170449",
-      "tags": [
-        "Operations"
-      ],
-      "description": "&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Suchst du eine Führungsrolle, in der deine positive En...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-teamleiter-logistik-nurnberg-bavaria-449741",
-      "title": "Teamleiter Logistik (m/w/d)",
-      "company": "Teampicnic",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Nürnberg, Bavaria",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-14T00:55:21.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/teamleiter-logistik-nurnberg-bavaria-449741",
-      "tags": [
-        "Operations"
-      ],
-      "description": "&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;\n&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Suchst du eine Führungsrolle, in der deine positive En...",
+      "description": "\nThis position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an AI Platform Engineer based i...",
       "verified": true,
       "source": "Arbeitnow Verified"
     }
