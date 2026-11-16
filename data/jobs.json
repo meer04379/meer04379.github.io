@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T05:12:39.643Z",
+  "updated_at": "2026-11-16T05:10:02.115Z",
   "total_count": 33,
   "jobs": [
     {
@@ -11,7 +11,7 @@
       "location": "Pan India / Central Govt Departments",
       "type": "Full Time (Govt)",
       "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
-      "published_at": "2026-11-15T05:12:39.643Z",
+      "published_at": "2026-11-16T05:10:02.115Z",
       "url": "https://ssc.gov.in/",
       "tags": [
         "SSC CGL",
@@ -31,7 +31,7 @@
       "location": "All India Bank Branches",
       "type": "Full Time (Banking)",
       "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
-      "published_at": "2026-11-15T05:12:39.643Z",
+      "published_at": "2026-11-16T05:10:02.115Z",
       "url": "https://sbi.co.in/web/careers",
       "tags": [
         "Bank PO",
@@ -51,7 +51,7 @@
       "location": "Pan India Railway Zones",
       "type": "Govt Technical",
       "salary": "Level 6 CPC Matrix",
-      "published_at": "2026-11-15T05:12:39.643Z",
+      "published_at": "2026-11-16T05:10:02.115Z",
       "url": "https://indianrailways.gov.in/",
       "tags": [
         "RRB JE",
@@ -61,6 +61,27 @@
       "description": "Recruitment of Junior Engineers in Civil, Electrical, Mechanical and IT cadres.",
       "verified": true,
       "source": "Railway Recruitment"
+    },
+    {
+      "id": "remotive-2091173",
+      "title": "Content Creator - YouTube",
+      "company": "Metics Media",
+      "company_logo": "https://remotive.com/job/2091173/logo",
+      "category": "marketing",
+      "location": "USA, Canada",
+      "type": "Remote",
+      "salary": "$85k - $155k",
+      "published_at": "2026-11-13T17:29:57",
+      "url": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
+      "tags": [
+        "ecommerce",
+        "shopify",
+        "video",
+        "AI/ML"
+      ],
+      "description": "Important: Applications without an intro video will not be considered.Job OverviewCreate engaging YouTube tutorials about software, digital marketing, and AI to...",
+      "verified": true,
+      "source": "Remotive Verified"
     },
     {
       "id": "remotive-1680495",
@@ -351,295 +372,273 @@
       "source": "Remotive Verified"
     },
     {
-      "id": "remotive-2091158",
-      "title": "Software Engineer, AI Coding Tasks",
-      "company": "Askable",
-      "company_logo": "https://remotive.com/job/2091158/logo",
-      "category": "tech",
-      "location": "Worldwide",
-      "type": "Remote",
-      "salary": "$1000 per task",
-      "published_at": "2026-10-17T16:04:29",
-      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
-      "tags": [
-        "C++",
-        "docker",
-        "git",
-        "go"
-      ],
-      "description": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you...",
-      "verified": true,
-      "source": "Remotive Verified"
-    },
-    {
-      "id": "arbeit-account-executive-europe-berlin-chemnitz-sachsen-dresden-sachsen-koln-nordrhein-westfalen-munchen-bayern-350607",
-      "title": "Account Executive Europe",
-      "company": "Staffbase",
+      "id": "arbeit-account-executive-enterprise-hunter-dach-market-148908",
+      "title": "Account Executive, Enterprise Hunter (DACH Market)",
+      "company": "stripe",
       "company_logo": "",
       "category": "tech",
-      "location": "Berlin; Chemnitz, Sachsen; Dresden, Sachsen; Köln, Nordrhein-Westfalen; München, Bayern",
+      "location": "Europe/Global",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:55:14.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/account-executive-europe-berlin-chemnitz-sachsen-dresden-sachsen-koln-nordrhein-westfalen-munchen-bayern-350607",
+      "published_at": "2026-11-16T03:55:36.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/stripe/account-executive-enterprise-hunter-dach-market-148908",
       "tags": [
-        "Account Executives"
+        "1185 Account Executives (EMEA)"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Staffbase&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We inspire people to achieve great things ...",
+      "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—f...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-elektriker-aachen-280453",
-      "title": "Elektriker (m/w/d)",
-      "company": "Black Semiconductor GmbH",
+      "id": "arbeit-staff-security-engineer-incident-response-493483",
+      "title": "Staff Security Engineer, Incident Response",
+      "company": "databricks",
       "company_logo": "",
       "category": "tech",
-      "location": "Aachen, Germany",
+      "location": "Europe/Global",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:40:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/elektriker-aachen-280453",
+      "published_at": "2026-11-16T03:55:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/staff-security-engineer-incident-response-493483",
       "tags": [
-        "Fab Management"
+        "Security"
       ],
-      "description": "Gestalte mit uns die Zukunft der Chipindustrie – von Anfang an!Deine Rolle bei Black SemiconductorBei Black Semiconductor entwickeln wir eine neue Generation de...",
+      "description": "&lt;p&gt;RDQ327R180&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Staff Security Engineer, Incident Response&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Incident Response team&#39...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-working-student-data-ai-aachen-356566",
-      "title": "Working Student – Data & AI  (f/m/d)",
-      "company": "Black Semiconductor GmbH",
+      "id": "arbeit-senior-strategic-account-executive-firefox-enterprise-dach-470233",
+      "title": "Senior Strategic Account Executive, Firefox Enterprise (DACH)",
+      "company": "mozilla",
       "company_logo": "",
       "category": "tech",
-      "location": "Aachen, Germany",
+      "location": "Europe/Global",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:40:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/working-student-data-ai-aachen-356566",
+      "published_at": "2026-11-16T03:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-strategic-account-executive-firefox-enterprise-dach-470233",
       "tags": [
-        "IT",
-        "Data & AI Department"
+        "New Products"
       ],
-      "description": "Your RoleAs a Working Student in our Data &amp; AI department, you will support the team across a range of projects and help bring Black Semiconductor’s AI-firs...",
+      "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&g...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-pic-layout-engineer-aachen-499082",
-      "title": "PIC Layout Engineer (f/m/d)",
-      "company": "Black Semiconductor GmbH",
-      "company_logo": "",
-      "category": "design",
-      "location": "Aachen, Germany",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:40:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/pic-layout-engineer-aachen-499082",
-      "tags": [
-        "Design Enablement"
-      ],
-      "description": "About usWe see the semiconductor industry as a realm of possibility. We see opportunity. We see the profound impact that our graphene solutions will have in tra...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-growth-strategist-all-genders-berlin-204779",
-      "title": "Growth Strategist (all genders)",
-      "company": "JustPlay GmbH",
+      "id": "arbeit-senior-technical-program-manager-munich-101303",
+      "title": "(Senior) Technical Program Manager (m/f/d)",
+      "company": "RobCo",
       "company_logo": "",
       "category": "tech",
-      "location": "Berlin (Hybrid)",
+      "location": "Munich",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:40:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/growth-strategist-all-genders-berlin-204779",
+      "published_at": "2026-11-16T03:47:36.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/robco/senior-technical-program-manager-munich-101303",
       "tags": [
-        "Growth"
+        "Solutions"
       ],
-      "description": "JustPlay is looking for a Growth Strategist to join our User Acquisition team. As we continue scaling our growth efforts, we're looking for someone who can iden...",
+      "description": "About the Role at RobCoRobCo is building the category of Autonomous Industrial Robotics and we're doing it fast. We believe that automating the ordinary frees h...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-sales-manager-berlin-178120",
-      "title": "(Senior) Sales Manager (m/w/d)",
-      "company": "Liqid Lam",
+      "id": "arbeit-sales-team-lead-berlin-327970",
+      "title": "Sales Team Lead",
+      "company": "Andercore",
       "company_logo": "",
       "category": "tech",
       "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:40:10.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/liqid-lam/senior-sales-manager-berlin-178120",
+      "published_at": "2026-11-16T03:47:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/andercore/sales-team-lead-berlin-327970",
       "tags": [
-        "Clients"
+        "Business Development"
       ],
-      "description": "Deine RolleAls (Senior) Sales Manager (w/m/d) bekommst du die Chance, aktiv zum Erfolg und Wachstum unseres Unternehmens beizutragen. In dieser zentralen Rolle ...",
+      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials and goods for energy and infrastructure. We execute trade and distribution end-to-end...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-crm-lifecycle-manager-berlin-30191",
-      "title": "Senior CRM & Lifecycle Manager",
-      "company": "Cosuno",
+      "id": "arbeit-senior-revenue-operations-manager-berlin-4904",
+      "title": "Senior Revenue Operations Manager",
+      "company": "Andercore",
       "company_logo": "",
       "category": "marketing",
-      "location": "Berlin/Remote",
+      "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:40:10.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-crm-lifecycle-manager-berlin-30191",
+      "published_at": "2026-11-16T03:47:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/andercore/senior-revenue-operations-manager-berlin-4904",
       "tags": [
-        "Marketing"
+        "Sales"
       ],
-      "description": "Your missionCosuno is a platform for construction tendering in the German-speaking market. It connects general contractors, who publish bid packages, with subco...",
+      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials and goods for energy and infrastructure. We execute trade and distribution end-to-end...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-data-analyst-berlin-443903",
-      "title": "Senior Data Analyst",
-      "company": "Cosuno",
+      "id": "arbeit-finance-and-accounting-intern-berlin-139997",
+      "title": "Finance and Accounting Intern",
+      "company": "Andercore",
       "company_logo": "",
       "category": "tech",
-      "location": "Berlin/Remote",
+      "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:40:10.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/senior-data-analyst-berlin-443903",
+      "published_at": "2026-11-16T03:47:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/andercore/finance-and-accounting-intern-berlin-139997",
       "tags": [
-        "Tech"
+        "Business Development"
       ],
-      "description": "Your missionWe're a small data team with a big job: helping everyone at Cosuno make better decisions. Our data platform is stable and in good hands. What we nee...",
+      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials and goods for energy and infrastructure. We execute trade and distribution end-to-end...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-schichtleiter-teamleiter-verpackung-fur-das-bifi-werk-in-guben-guben-401092",
-      "title": "Schichtleiter / Teamleiter Verpackung (m/w/d) für das BiFi Werk in Guben",
-      "company": "Ritter von Gral GmbH",
+      "id": "arbeit-junior-sales-trader-berlin-based-50440",
+      "title": "Junior Sales Trader  (Berlin based)",
+      "company": "Andercore",
       "company_logo": "",
       "category": "tech",
-      "location": "Guben , Brandenburg, Deutschland",
+      "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:31:14.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/ritter-von-gral-gmbh/schichtleiter-teamleiter-verpackung-fur-das-bifi-werk-in-guben-guben-401092",
+      "published_at": "2026-11-16T03:47:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/andercore/junior-sales-trader-berlin-based-50440",
       "tags": [
-        "LSI Germany GmbH"
+        "Business Development"
       ],
-      "description": "Umsetzung aller für die Fertigung relevanten Vorgaben (intern + extern), wie Herstellmethoden, Richtlinien zur Betriebs- und Personalhygiene, UVV- und EU-Richtl...",
+      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials and goods for energy and infrastructure. We execute trade and distribution end-to-end...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
-      "title": "Senior Data Engineer & Consultant (all genders) – Microsoft Fabric",
-      "company": "teccle group GmbH",
+      "id": "arbeit-account-executive-uk-berlin-194083",
+      "title": "Account Executive ,UK",
+      "company": "Andercore",
       "company_logo": "",
       "category": "tech",
-      "location": "Homeoffice",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-16T03:47:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/andercore/account-executive-uk-berlin-194083",
+      "tags": [
+        "Business Development"
+      ],
+      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials and goods for energy and infrastructure. We execute trade and distribution end-to-end...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-no-code-developer-bubbleio-100-remote-berlin-302182",
+      "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
+      "company": "ALPHA Software GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
       "type": "Remote",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:31:13.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-data-engineer-consultant-all-genders-microsoft-fabric-berlin-222668",
+      "published_at": "2026-11-16T03:30:37.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-302182",
       "tags": [
-        "Professional",
-        "Remote"
+        "Remote",
+        "Software Development"
       ],
-      "description": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unte...",
+      "description": "Unsere gesamte Software läuft auf Bubble.io – und du sollst sie zu deinem Produkt machen.\nDie ALPHA Software GmbH digitalisiert die Erstellung von Gebäudeunterl...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-customer-success-manager-all-genders-munchen-437893",
-      "title": "Senior Customer Success Manager (all genders)",
-      "company": "Foodji GmbH",
+      "id": "arbeit-senior-talent-acquisition-partner-dach-berlin-435109",
+      "title": "Senior Talent Acquisition Partner – DACH",
+      "company": "Agicap",
       "company_logo": "",
-      "category": "tech",
-      "location": "München, Bayern, Deutschland",
+      "category": "design",
+      "location": "Berlin 🇩🇪",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:31:13.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-customer-success-manager-all-genders-munchen-437893",
+      "published_at": "2026-11-16T03:26:57.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/agicap/senior-talent-acquisition-partner-dach-berlin-435109",
       "tags": [
-        "Account Management"
+        "Talent Acquisition"
       ],
-      "description": "Gestalte das perfekte Foodji-ErlebnisEin großartiges Produkt allein reicht nicht – echte Kundenzufriedenheit entsteht durch starke Beziehungen und einen klaren ...",
+      "description": "\nAgicap is one of Europe's fastest-growing fintech scale-ups. Our platform helps mid-market companies manage cash, liquidity and financial operations, combining...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-recruiter-talent-acquisition-manager-all-genders-munchen-486820",
-      "title": "Senior Recruiter / Talent Acquisition Manager (all genders)",
-      "company": "Foodji GmbH",
+      "id": "arbeit-data-analyst-consultant-quereinsteiger-willkommen-dsde-13-01-marz-2027-hamburg-24841",
+      "title": "Data Analyst Consultant (m/w/d) - Quereinsteiger willkommen! DSDE 13 - 01. März 2027",
+      "company": "Theinformationlab",
       "company_logo": "",
       "category": "tech",
-      "location": "München, Bayern, Deutschland",
+      "location": "Hamburg",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:31:13.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-recruiter-talent-acquisition-manager-all-genders-munchen-486820",
+      "published_at": "2026-11-16T03:26:55.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/theinformationlab/data-analyst-consultant-quereinsteiger-willkommen-dsde-13-01-marz-2027-hamburg-24841",
       "tags": [
-        "People & Culture"
+        "The Data School - Germany"
       ],
-      "description": "Wir öffnen eine neue, zentrale Position in unserem Team: eine Person, die Recruiting nicht als Aufgabe, sondern als Handwerk und Hebel für Unternehmenserfolg ve...",
+      "description": "Application Deadline: 24th November 2026\n&nbsp;\nDu möchtest etwas bewegen und hast Lust darauf, Teil eines Teams zu sein, das anderen Menschen hilft, Daten zu v...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-business-financial-analyst-all-genders-munchen-179841",
-      "title": "(Senior) Business & Financial Analyst (all genders)",
-      "company": "Foodji GmbH",
+      "id": "arbeit-senior-frontend-engineer-react-berlin-173790",
+      "title": "Senior Frontend Engineer - React",
+      "company": "Researchgate",
       "company_logo": "",
       "category": "tech",
-      "location": "München, Bayern, Deutschland",
+      "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:31:13.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-business-financial-analyst-all-genders-munchen-179841",
+      "published_at": "2026-11-16T03:26:54.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/researchgate/senior-frontend-engineer-react-berlin-173790",
       "tags": [
-        "Business Intelligence"
+        "Engineering"
       ],
-      "description": "Foodji macht frisches, gutes Essen im Büro jederzeit verfügbar. Unsere autonomen Foodjis stehen in bald tausend Unternehmen in Deutschland, jede Transaktion, je...",
+      "description": "\nResearchGate is the professional network for scientists and researchers. From climate change and emerging diseases to food security and the responsible develop...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-autosar-embedded-software-engineer-koblenz-germany-129614",
-      "title": "AUTOSAR Embedded Software Engineer (m/w/d)",
-      "company": "Mobileye",
+      "id": "arbeit-senior-mechanical-engineer-robotic-systems-munich-bavaria-66135",
+      "title": "Senior Mechanical Engineer - Robotic Systems",
+      "company": "Agilerobotsse",
       "company_logo": "",
       "category": "tech",
-      "location": "Koblenz, Germany",
+      "location": "Munich, Bavaria",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:27:14.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/mobileye/autosar-embedded-software-engineer-koblenz-germany-129614",
+      "published_at": "2026-11-16T00:55:24.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-mechanical-engineer-robotic-systems-munich-bavaria-66135",
       "tags": [
-        "Software"
+        "Applied Automation Intelligence"
       ],
-      "description": "Mobileye’s Automotive Software development team is looking for SW developers to work on the cutting-edge of technologies bringing to market Mobileye Autosar sel...",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Agile Robots SE is an innovative company with a clear mission: bringing intelligent robotic solutions to our customers. W...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-ai-platform-engineer-germany-385581",
-      "title": "AI Platform Engineer",
-      "company": "Jobgether",
+      "id": "arbeit-forward-deployed-ai-engineer-munich-bavaria-239617",
+      "title": "Forward Deployed AI Engineer (m/f/d)",
+      "company": "Agilerobotsse",
       "company_logo": "",
       "category": "tech",
-      "location": "Germany",
+      "location": "Munich, Bavaria",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-15T03:27:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/ai-platform-engineer-germany-385581",
+      "published_at": "2026-11-16T00:55:24.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/forward-deployed-ai-engineer-munich-bavaria-239617",
       "tags": [
-        "IT"
+        "Applied Automation Intelligence"
       ],
-      "description": "\nThis position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an AI Platform Engineer based i...",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Agile Robots SE is an innovative company with a clear mission: bringing intelligent robotic solutions to our customers. W...",
       "verified": true,
       "source": "Arbeitnow Verified"
     }
