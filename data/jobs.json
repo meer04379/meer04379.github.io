@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T05:10:02.115Z",
+  "updated_at": "2026-11-17T06:55:36.418Z",
   "total_count": 33,
   "jobs": [
     {
@@ -11,7 +11,7 @@
       "location": "Pan India / Central Govt Departments",
       "type": "Full Time (Govt)",
       "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
-      "published_at": "2026-11-16T05:10:02.115Z",
+      "published_at": "2026-11-17T06:55:36.417Z",
       "url": "https://ssc.gov.in/",
       "tags": [
         "SSC CGL",
@@ -31,7 +31,7 @@
       "location": "All India Bank Branches",
       "type": "Full Time (Banking)",
       "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
-      "published_at": "2026-11-16T05:10:02.115Z",
+      "published_at": "2026-11-17T06:55:36.417Z",
       "url": "https://sbi.co.in/web/careers",
       "tags": [
         "Bank PO",
@@ -51,7 +51,7 @@
       "location": "Pan India Railway Zones",
       "type": "Govt Technical",
       "salary": "Level 6 CPC Matrix",
-      "published_at": "2026-11-16T05:10:02.115Z",
+      "published_at": "2026-11-17T06:55:36.417Z",
       "url": "https://indianrailways.gov.in/",
       "tags": [
         "RRB JE",
@@ -61,6 +61,27 @@
       "description": "Recruitment of Junior Engineers in Civil, Electrical, Mechanical and IT cadres.",
       "verified": true,
       "source": "Railway Recruitment"
+    },
+    {
+      "id": "remotive-2069746",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "company_logo": "https://remotive.com/job/2069746/logo",
+      "category": "tech",
+      "location": "USA, Canada, USA timezones",
+      "type": "Remote",
+      "salary": "$170k - $200k",
+      "published_at": "2026-11-14T20:33:53",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "tags": [
+        "api",
+        "CSS",
+        "docker",
+        "elasticsearch"
+      ],
+      "description": "About Mitre Media\nMitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFun...",
+      "verified": true,
+      "source": "Remotive Verified"
     },
     {
       "id": "remotive-2091173",
@@ -352,293 +373,276 @@
       "source": "Remotive Verified"
     },
     {
-      "id": "remotive-2091161",
-      "title": "AI Trainer - Video Annotation",
-      "company": "iMerit Technology",
-      "company_logo": "https://remotive.com/job/2091161/logo",
-      "category": "tech",
-      "location": "Worldwide",
-      "type": "Remote",
-      "salary": "70K-80K",
-      "published_at": "2026-10-22T18:40:19",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
-      "tags": [
-        "video",
-        "AI/ML",
-        "robotics"
-      ],
-      "description": "AI Trainer - Video AnnotationRemote   |   Independent Contractor   Prove your skills. Get certified. Robotics AI is advancing rapidly, and high-quality video da...",
-      "verified": true,
-      "source": "Remotive Verified"
-    },
-    {
-      "id": "arbeit-account-executive-enterprise-hunter-dach-market-148908",
-      "title": "Account Executive, Enterprise Hunter (DACH Market)",
-      "company": "stripe",
+      "id": "arbeit-product-engineer-berlin-476482",
+      "title": "Product Engineer",
+      "company": "Augustus",
       "company_logo": "",
       "category": "tech",
-      "location": "Europe/Global",
+      "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T03:55:36.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/stripe/account-executive-enterprise-hunter-dach-market-148908",
+      "published_at": "2026-11-17T03:47:31.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/augustus/product-engineer-berlin-476482",
       "tags": [
-        "1185 Account Executives (EMEA)"
+        "Engineering"
       ],
-      "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—f...",
+      "description": "Few people get to build a bank from scratch. Even fewer get to build one at a moment when banking itself is being reinvented.The Dollar is the best product in t...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-staff-security-engineer-incident-response-493483",
-      "title": "Staff Security Engineer, Incident Response",
-      "company": "databricks",
+      "id": "arbeit-head-of-product-technology-ai-first-hospitality-tech-berlin-105974",
+      "title": "Head of Product & Technology (m/w/d) | AI-first | Hospitality Tech",
+      "company": "Kooku",
       "company_logo": "",
       "category": "tech",
-      "location": "Europe/Global",
+      "location": "Berlin, Germany",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T03:55:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/staff-security-engineer-incident-response-493483",
+      "published_at": "2026-11-17T03:20:12.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/kooku/head-of-product-technology-ai-first-hospitality-tech-berlin-105974",
       "tags": [
-        "Security"
+        "Product Management",
+        "Internet",
+        "BD Apartment GmbH (STAYERY)"
       ],
-      "description": "&lt;p&gt;RDQ327R180&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Staff Security Engineer, Incident Response&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Incident Response team&#39...",
+      "description": "Serviced Apartments wachsen oft schneller als die Teams, die sie betreiben. Jedes neue Haus bringt mehr Personal, mehr Abstimmung und mehr Abhängigkeit von Buch...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-strategic-account-executive-firefox-enterprise-dach-470233",
-      "title": "Senior Strategic Account Executive, Firefox Enterprise (DACH)",
-      "company": "mozilla",
+      "id": "arbeit-analytics-engineer-power-trading-berlin-243378",
+      "title": "Analytics Engineer - Power Trading",
+      "company": "Ostrom",
       "company_logo": "",
-      "category": "tech",
-      "location": "Europe/Global",
+      "category": "finance",
+      "location": "Berlin / Remote",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T03:55:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-strategic-account-executive-firefox-enterprise-dach-470233",
+      "published_at": "2026-11-17T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/ostrom/analytics-engineer-power-trading-berlin-243378",
       "tags": [
-        "New Products"
+        "Finance"
       ],
-      "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&g...",
+      "description": "🌐 We are on the mission to build Europe’s leading energy management platform to provide fair, clean energy to everyone. ⚡We’re a diverse team of 50+ employees,...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-technical-program-manager-munich-101303",
-      "title": "(Senior) Technical Program Manager (m/f/d)",
-      "company": "RobCo",
+      "id": "arbeit-research-engineer-robotics-rl-post-training-munich-115140",
+      "title": "Research Engineer - Robotics RL & Post Training",
+      "company": "Microagi",
       "company_logo": "",
       "category": "tech",
       "location": "Munich",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T03:47:36.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/robco/senior-technical-program-manager-munich-101303",
+      "published_at": "2026-11-17T00:40:10.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/microagi/research-engineer-robotics-rl-post-training-munich-115140",
       "tags": [
-        "Solutions"
+        "microagi"
       ],
-      "description": "About the Role at RobCoRobCo is building the category of Autonomous Industrial Robotics and we're doing it fast. We believe that automating the ordinary frees h...",
+      "description": "Accelerating embodied AGI.The next ten years of AI will not be won in software. They will be won in the physical world: in factories, hospitals, kitchens, field...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-sales-team-lead-berlin-327970",
-      "title": "Sales Team Lead",
-      "company": "Andercore",
+      "id": "arbeit-llm-engineer-post-training-remote-germany-336396",
+      "title": "LLM Engineer — Post-Training (Remote - Germany)",
+      "company": "EverAI",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-17T00:40:10.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/everai/llm-engineer-post-training-remote-germany-336396",
+      "tags": [
+        "R&D"
+      ],
+      "description": "Our Vision &amp; Products🚀 EverAI — Building the Future of AI CompanionshipOne of the Top Largest &amp; Fastest-Growing AI Companies in the World60 Million Use...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-werkstudent-software-engineering-all-genders-germering-104959",
+      "title": "Werkstudent Software Engineering (all genders)",
+      "company": "Titanom Technologies",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Germering, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-17T00:20:16.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/titanom-technologies/werkstudent-software-engineering-all-genders-germering-104959",
+      "tags": [
+        "Engineering",
+        "Computer Software",
+        "Technology"
+      ],
+      "description": "Titanom ist ein KI- und Softwareunternehmen mit Fokus auf digitale Produkte in Bildung, öffentlichem Sektor und angrenzenden Bereichen. Unsere Mission ist es Lö...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-praktikum-human-resources-employer-branding-recruiting-kommunikation-startup-kultur-berlin-354046",
+      "title": "Praktikum Human Resources & Employer Branding (m/w/d) - Recruiting, Kommunikation & Startup-Kultur",
+      "company": "Think3DDD GbR",
+      "company_logo": "",
+      "category": "design",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-17T00:00:34.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/think3ddd-gbr/praktikum-human-resources-employer-branding-recruiting-kommunikation-startup-kultur-berlin-354046",
+      "tags": [
+        "Recruitment and Selection"
+      ],
+      "description": "Du suchst ein Pflichtpraktikum oder Praxissemester, in dem du nicht nur Bewerbungen sortierst, sondern die Weiterentwicklung eines wachsenden Startups aktiv mit...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-pflichtpraktikum-technical-sales-business-development-medizintechnik-3d-druck-berlin-410613",
+      "title": "Pflichtpraktikum Technical Sales & Business Development (m/w/d) - Medizintechnik & 3D-Druck",
+      "company": "Think3DDD GbR",
       "company_logo": "",
       "category": "tech",
       "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T03:47:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/andercore/sales-team-lead-berlin-327970",
+      "published_at": "2026-11-17T00:00:34.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/think3ddd-gbr/pflichtpraktikum-technical-sales-business-development-medizintechnik-3d-druck-berlin-410613",
       "tags": [
         "Business Development"
       ],
-      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials and goods for energy and infrastructure. We execute trade and distribution end-to-end...",
+      "description": "💡 Du möchtest Medizintechnik nicht nur entwickeln, sondern auch verstehen, wie sie erfolgreich in die Anwendung kommt?  \n🧠 Du hast Spaß daran, komplexe techni...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-revenue-operations-manager-berlin-4904",
-      "title": "Senior Revenue Operations Manager",
-      "company": "Andercore",
+      "id": "arbeit-junior-artist-manager-influencer-manager-mulheim-13755",
+      "title": "Junior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Mülheim",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-16T23:00:40.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-13755",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "description": "Was wir Dir bieten:\n\nEine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-artist-manager-influencer-manager-mulheim-226518",
+      "title": "Senior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Mülheim",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-16T23:00:40.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/senior-artist-manager-influencer-manager-mulheim-226518",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "description": "Was wir Dir bieten:\n\nEine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-artist-manager-influencer-manager-mulheim-16569",
+      "title": "Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Mülheim",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-16T23:00:40.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/artist-manager-influencer-manager-mulheim-16569",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "description": "Was wir Dir bieten:Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer M...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-junior-artist-manager-influencer-manager-berlin-12283",
+      "title": "Junior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-16T23:00:39.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-12283",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "description": "Was wir Dir bieten:\n\nEine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-artist-manager-influencer-manager-berlin-80583",
+      "title": "Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-16T23:00:39.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/artist-manager-influencer-manager-berlin-80583",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "description": "Was wir Dir bieten:Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer M...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-artist-manager-influencer-manager-berlin-56968",
+      "title": "Senior Artist Manager / Influencer Manager (m/w/d)",
+      "company": "Lionflence",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-16T23:00:39.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/senior-artist-manager-influencer-manager-berlin-56968",
+      "tags": [
+        "Social Media Manager"
+      ],
+      "description": "Was wir Dir bieten:\n\nEine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-praktikum-vertrieb-marketing-pflichtpraktikum-6-monate-berlin-253962",
+      "title": "Praktikum Vertrieb & Marketing (m/w/d) Pflichtpraktikum (6 Monate)",
+      "company": "ODE International GmbH",
       "company_logo": "",
       "category": "marketing",
       "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T03:47:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/andercore/senior-revenue-operations-manager-berlin-4904",
+      "published_at": "2026-11-16T22:00:40.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/ode-international-gmbh/praktikum-vertrieb-marketing-pflichtpraktikum-6-monate-berlin-253962",
       "tags": [
-        "Sales"
+        "Marketing Assistant"
       ],
-      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials and goods for energy and infrastructure. We execute trade and distribution end-to-end...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-finance-and-accounting-intern-berlin-139997",
-      "title": "Finance and Accounting Intern",
-      "company": "Andercore",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T03:47:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/andercore/finance-and-accounting-intern-berlin-139997",
-      "tags": [
-        "Business Development"
-      ],
-      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials and goods for energy and infrastructure. We execute trade and distribution end-to-end...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-junior-sales-trader-berlin-based-50440",
-      "title": "Junior Sales Trader  (Berlin based)",
-      "company": "Andercore",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T03:47:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/andercore/junior-sales-trader-berlin-based-50440",
-      "tags": [
-        "Business Development"
-      ],
-      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials and goods for energy and infrastructure. We execute trade and distribution end-to-end...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-account-executive-uk-berlin-194083",
-      "title": "Account Executive ,UK",
-      "company": "Andercore",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T03:47:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/andercore/account-executive-uk-berlin-194083",
-      "tags": [
-        "Business Development"
-      ],
-      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials and goods for energy and infrastructure. We execute trade and distribution end-to-end...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-no-code-developer-bubbleio-100-remote-berlin-302182",
-      "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
-      "company": "ALPHA Software GmbH",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Remote",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T03:30:37.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-302182",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "description": "Unsere gesamte Software läuft auf Bubble.io – und du sollst sie zu deinem Produkt machen.\nDie ALPHA Software GmbH digitalisiert die Erstellung von Gebäudeunterl...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-talent-acquisition-partner-dach-berlin-435109",
-      "title": "Senior Talent Acquisition Partner – DACH",
-      "company": "Agicap",
-      "company_logo": "",
-      "category": "design",
-      "location": "Berlin 🇩🇪",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T03:26:57.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/agicap/senior-talent-acquisition-partner-dach-berlin-435109",
-      "tags": [
-        "Talent Acquisition"
-      ],
-      "description": "\nAgicap is one of Europe's fastest-growing fintech scale-ups. Our platform helps mid-market companies manage cash, liquidity and financial operations, combining...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-data-analyst-consultant-quereinsteiger-willkommen-dsde-13-01-marz-2027-hamburg-24841",
-      "title": "Data Analyst Consultant (m/w/d) - Quereinsteiger willkommen! DSDE 13 - 01. März 2027",
-      "company": "Theinformationlab",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Hamburg",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T03:26:55.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/theinformationlab/data-analyst-consultant-quereinsteiger-willkommen-dsde-13-01-marz-2027-hamburg-24841",
-      "tags": [
-        "The Data School - Germany"
-      ],
-      "description": "Application Deadline: 24th November 2026\n&nbsp;\nDu möchtest etwas bewegen und hast Lust darauf, Teil eines Teams zu sein, das anderen Menschen hilft, Daten zu v...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-frontend-engineer-react-berlin-173790",
-      "title": "Senior Frontend Engineer - React",
-      "company": "Researchgate",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T03:26:54.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/researchgate/senior-frontend-engineer-react-berlin-173790",
-      "tags": [
-        "Engineering"
-      ],
-      "description": "\nResearchGate is the professional network for scientists and researchers. From climate change and emerging diseases to food security and the responsible develop...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-mechanical-engineer-robotic-systems-munich-bavaria-66135",
-      "title": "Senior Mechanical Engineer - Robotic Systems",
-      "company": "Agilerobotsse",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Munich, Bavaria",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T00:55:24.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-mechanical-engineer-robotic-systems-munich-bavaria-66135",
-      "tags": [
-        "Applied Automation Intelligence"
-      ],
-      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Agile Robots SE is an innovative company with a clear mission: bringing intelligent robotic solutions to our customers. W...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-forward-deployed-ai-engineer-munich-bavaria-239617",
-      "title": "Forward Deployed AI Engineer (m/f/d)",
-      "company": "Agilerobotsse",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Munich, Bavaria",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T00:55:24.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/forward-deployed-ai-engineer-munich-bavaria-239617",
-      "tags": [
-        "Applied Automation Intelligence"
-      ],
-      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Agile Robots SE is an innovative company with a clear mission: bringing intelligent robotic solutions to our customers. W...",
+      "description": "Hi, wir sind ODE – der High-End-Aperitif aus Berlin. Wir entwickeln außergewöhnliche Geschmackserlebnisse und stehen für moderne Drinks mit Haltung.\nGood Taste ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     }
