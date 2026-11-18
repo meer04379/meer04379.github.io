@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T06:55:36.418Z",
+  "updated_at": "2026-11-18T06:15:28.996Z",
   "total_count": 33,
   "jobs": [
     {
@@ -11,7 +11,7 @@
       "location": "Pan India / Central Govt Departments",
       "type": "Full Time (Govt)",
       "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
-      "published_at": "2026-11-17T06:55:36.417Z",
+      "published_at": "2026-11-18T06:15:28.996Z",
       "url": "https://ssc.gov.in/",
       "tags": [
         "SSC CGL",
@@ -31,7 +31,7 @@
       "location": "All India Bank Branches",
       "type": "Full Time (Banking)",
       "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
-      "published_at": "2026-11-17T06:55:36.417Z",
+      "published_at": "2026-11-18T06:15:28.996Z",
       "url": "https://sbi.co.in/web/careers",
       "tags": [
         "Bank PO",
@@ -51,7 +51,7 @@
       "location": "Pan India Railway Zones",
       "type": "Govt Technical",
       "salary": "Level 6 CPC Matrix",
-      "published_at": "2026-11-17T06:55:36.417Z",
+      "published_at": "2026-11-18T06:15:28.996Z",
       "url": "https://indianrailways.gov.in/",
       "tags": [
         "RRB JE",
@@ -373,276 +373,276 @@
       "source": "Remotive Verified"
     },
     {
-      "id": "arbeit-product-engineer-berlin-476482",
-      "title": "Product Engineer",
-      "company": "Augustus",
+      "id": "arbeit-market-access-senior-manager-eu-center-59227",
+      "title": "Market Access (Senior) Manager, EU Center",
+      "company": "Bridgebio",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Europe/Global",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-18T03:55:33.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/bridgebio/market-access-senior-manager-eu-center-59227",
+      "tags": [
+        "Market Access"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&qu...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-intelligence-officer-information-cybersecurity-parsdorf-bavaria-185786",
+      "title": "Senior Intelligence Officer, Information & Cybersecurity",
+      "company": "isaraerospace",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Parsdorf, Bavaria",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-18T03:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-intelligence-officer-information-cybersecurity-parsdorf-bavaria-185786",
+      "tags": [
+        "Information & Cybersecurity"
+      ],
+      "description": "&lt;p&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Mission Brief&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&a...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-manager-quality-assurance-quality-engineering-parsdorf-bavaria-112995",
+      "title": "Manager Quality Assurance & Quality Engineering (m/f/d)",
+      "company": "isaraerospace",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Parsdorf, Bavaria",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-18T03:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/manager-quality-assurance-quality-engineering-parsdorf-bavaria-112995",
+      "tags": [
+        "Production",
+        "Operations & Quality"
+      ],
+      "description": "&lt;p&gt;&lt;strong&gt;Mission Brief&amp;nbsp;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As Manager Quality Assurance &amp;amp; Quality Engineering, you are a...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-intern-ai-data-transformation-parsdorf-bavaria-95195",
+      "title": "Intern AI & Data Transformation",
+      "company": "isaraerospace",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Parsdorf, Bavaria",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-18T03:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/intern-ai-data-transformation-parsdorf-bavaria-95195",
+      "tags": [
+        "AI & Data Transformation"
+      ],
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;Mission Brief&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&am...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-director-quality-and-continuous-improvement-parsdorf-bavaria-334752",
+      "title": "Director Quality and Continuous Improvement (m/f/d)",
+      "company": "isaraerospace",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Parsdorf, Bavaria",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-18T03:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-quality-and-continuous-improvement-parsdorf-bavaria-334752",
+      "tags": [
+        "Production",
+        "Operations & Quality"
+      ],
+      "description": "&lt;p&gt;&lt;strong&gt;Mission Brief&amp;nbsp;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Lead quality and continuous improvement across the business to delive...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-director-of-indirect-procurement-and-logistics-parsdorf-bavaria-258967",
+      "title": "Director of Indirect Procurement and Logistics (m/f/d)",
+      "company": "isaraerospace",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Parsdorf, Bavaria",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-18T03:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-of-indirect-procurement-and-logistics-parsdorf-bavaria-258967",
+      "tags": [
+        "Production",
+        "Operations & Quality"
+      ],
+      "description": "&lt;p&gt;&lt;strong&gt;Mission Brief&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;TextRun SCXW72196640 BCX0&quot; lang=&quot;EN-US&quot; dat...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-director-enterprise-planning-and-transformation-parsdorf-bavaria-58640",
+      "title": "Director Enterprise Planning and Transformation (m/f/d)",
+      "company": "isaraerospace",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Parsdorf, Bavaria",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-18T03:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-enterprise-planning-and-transformation-parsdorf-bavaria-58640",
+      "tags": [
+        "Production",
+        "Operations & Quality"
+      ],
+      "description": "&lt;p&gt;&lt;strong&gt;Mission Brief&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Own the enterprise planning framework that translates company vision and strate...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-maintenance-manager-all-genders-barleben-saxony-anhalt-magdeburg-saxony-anhalt-464187",
+      "title": "Senior Maintenance Manager (all genders)",
+      "company": "hellofresh",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Barleben, Saxony-Anhalt; Magdeburg, Saxony-Anhalt",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-18T03:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-maintenance-manager-all-genders-barleben-saxony-anhalt-magdeburg-saxony-anhalt-464187",
+      "tags": [
+        "Supply Chain Management & Operations"
+      ],
+      "description": "&lt;h2&gt;Your Role&lt;/h2&gt;\n&lt;p&gt;As our &lt;strong&gt;Senior Maintenance Manager (all genders)&lt;/strong&gt;, you will be responsible for ensuring the r...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-maintenance-manager-all-genders-barleben-saxony-anhalt-magdeburg-saxony-anhalt-486044",
+      "title": "Senior Maintenance Manager (all genders)",
+      "company": "hellofresh",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Barleben, Saxony-Anhalt; Magdeburg, Saxony-Anhalt",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-18T03:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-maintenance-manager-all-genders-barleben-saxony-anhalt-magdeburg-saxony-anhalt-486044",
+      "tags": [
+        "Supply Chain Management & Operations"
+      ],
+      "description": "&lt;h2&gt;Deine Rolle&lt;/h2&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Als &lt;strong&gt;Senior Maintenance Manager &lt;/strong&gt;(all genders) übernimmst Du ...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-category-manager-marketing-all-genders-berlin-berlin-11345",
+      "title": "Senior Category Manager – Marketing (All Genders)",
+      "company": "hellofresh",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "Berlin, Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-18T03:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-category-manager-marketing-all-genders-berlin-berlin-11345",
+      "tags": [
+        "Marketing"
+      ],
+      "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;The (Senior) Category Manager Marketing will be responsible for overseeing strategic sourcin...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-indirect-procurement-senior-manager-marketing-all-genders-berlin-berlin-114542",
+      "title": "Indirect Procurement Senior Manager - Marketing (All genders)",
+      "company": "hellofresh",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "Berlin, Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-18T03:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/indirect-procurement-senior-manager-marketing-all-genders-berlin-berlin-114542",
+      "tags": [
+        "Marketing"
+      ],
+      "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;The (Senior) Category Manager Marketing will be responsible for overseeing strategic sourcin...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-working-student-export-control-trade-compliance-all-genders-368343",
+      "title": "Working Student Export Control & Trade Compliance (All Genders)",
+      "company": "Skdse",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Europe/Global",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-18T03:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/working-student-export-control-trade-compliance-all-genders-368343",
+      "tags": [
+        "Supply Chain"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-software-flight-test-engineer-all-genders-berlin-237151",
+      "title": "Software Flight Test Engineer (All Genders)",
+      "company": "Skdse",
       "company_logo": "",
       "category": "tech",
       "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-17T03:47:31.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/augustus/product-engineer-berlin-476482",
+      "published_at": "2026-11-18T03:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/software-flight-test-engineer-all-genders-berlin-237151",
+      "tags": [
+        "Berlin Flight Team"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-radar-signal-processing-engineer-all-genders-munich-bavaria-430462",
+      "title": "Senior Radar Signal Processing Engineer (All Genders)",
+      "company": "Skdse",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Munich, Bavaria",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-18T03:55:22.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/senior-radar-signal-processing-engineer-all-genders-munich-bavaria-430462",
       "tags": [
         "Engineering"
       ],
-      "description": "Few people get to build a bank from scratch. Even fewer get to build one at a moment when banking itself is being reinvented.The Dollar is the best product in t...",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-head-of-product-technology-ai-first-hospitality-tech-berlin-105974",
-      "title": "Head of Product & Technology (m/w/d) | AI-first | Hospitality Tech",
-      "company": "Kooku",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin, Germany",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-17T03:20:12.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/kooku/head-of-product-technology-ai-first-hospitality-tech-berlin-105974",
-      "tags": [
-        "Product Management",
-        "Internet",
-        "BD Apartment GmbH (STAYERY)"
-      ],
-      "description": "Serviced Apartments wachsen oft schneller als die Teams, die sie betreiben. Jedes neue Haus bringt mehr Personal, mehr Abstimmung und mehr Abhängigkeit von Buch...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-analytics-engineer-power-trading-berlin-243378",
-      "title": "Analytics Engineer - Power Trading",
-      "company": "Ostrom",
-      "company_logo": "",
-      "category": "finance",
-      "location": "Berlin / Remote",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-17T00:40:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/ostrom/analytics-engineer-power-trading-berlin-243378",
-      "tags": [
-        "Finance"
-      ],
-      "description": "🌐 We are on the mission to build Europe’s leading energy management platform to provide fair, clean energy to everyone. ⚡We’re a diverse team of 50+ employees,...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-research-engineer-robotics-rl-post-training-munich-115140",
-      "title": "Research Engineer - Robotics RL & Post Training",
-      "company": "Microagi",
+      "id": "arbeit-solutions-architect-munich-66216",
+      "title": "Solutions Architect",
+      "company": "databricks",
       "company_logo": "",
       "category": "tech",
       "location": "Munich",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-17T00:40:10.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/microagi/research-engineer-robotics-rl-post-training-munich-115140",
+      "published_at": "2026-11-18T03:55:21.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/solutions-architect-munich-66216",
       "tags": [
-        "microagi"
+        "Field Engineering - Other"
       ],
-      "description": "Accelerating embodied AGI.The next ten years of AI will not be won in software. They will be won in the physical world: in factories, hospitals, kitchens, field...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-llm-engineer-post-training-remote-germany-336396",
-      "title": "LLM Engineer — Post-Training (Remote - Germany)",
-      "company": "EverAI",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Germany",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-17T00:40:10.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/everai/llm-engineer-post-training-remote-germany-336396",
-      "tags": [
-        "R&D"
-      ],
-      "description": "Our Vision &amp; Products🚀 EverAI — Building the Future of AI CompanionshipOne of the Top Largest &amp; Fastest-Growing AI Companies in the World60 Million Use...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-werkstudent-software-engineering-all-genders-germering-104959",
-      "title": "Werkstudent Software Engineering (all genders)",
-      "company": "Titanom Technologies",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Germering, Germany",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-17T00:20:16.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/titanom-technologies/werkstudent-software-engineering-all-genders-germering-104959",
-      "tags": [
-        "Engineering",
-        "Computer Software",
-        "Technology"
-      ],
-      "description": "Titanom ist ein KI- und Softwareunternehmen mit Fokus auf digitale Produkte in Bildung, öffentlichem Sektor und angrenzenden Bereichen. Unsere Mission ist es Lö...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-praktikum-human-resources-employer-branding-recruiting-kommunikation-startup-kultur-berlin-354046",
-      "title": "Praktikum Human Resources & Employer Branding (m/w/d) - Recruiting, Kommunikation & Startup-Kultur",
-      "company": "Think3DDD GbR",
-      "company_logo": "",
-      "category": "design",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-17T00:00:34.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/think3ddd-gbr/praktikum-human-resources-employer-branding-recruiting-kommunikation-startup-kultur-berlin-354046",
-      "tags": [
-        "Recruitment and Selection"
-      ],
-      "description": "Du suchst ein Pflichtpraktikum oder Praxissemester, in dem du nicht nur Bewerbungen sortierst, sondern die Weiterentwicklung eines wachsenden Startups aktiv mit...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-pflichtpraktikum-technical-sales-business-development-medizintechnik-3d-druck-berlin-410613",
-      "title": "Pflichtpraktikum Technical Sales & Business Development (m/w/d) - Medizintechnik & 3D-Druck",
-      "company": "Think3DDD GbR",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-17T00:00:34.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/think3ddd-gbr/pflichtpraktikum-technical-sales-business-development-medizintechnik-3d-druck-berlin-410613",
-      "tags": [
-        "Business Development"
-      ],
-      "description": "💡 Du möchtest Medizintechnik nicht nur entwickeln, sondern auch verstehen, wie sie erfolgreich in die Anwendung kommt?  \n🧠 Du hast Spaß daran, komplexe techni...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-junior-artist-manager-influencer-manager-mulheim-13755",
-      "title": "Junior Artist Manager / Influencer Manager (m/w/d)",
-      "company": "Lionflence",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Mülheim",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T23:00:40.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-13755",
-      "tags": [
-        "Social Media Manager"
-      ],
-      "description": "Was wir Dir bieten:\n\nEine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-artist-manager-influencer-manager-mulheim-226518",
-      "title": "Senior Artist Manager / Influencer Manager (m/w/d)",
-      "company": "Lionflence",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Mülheim",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T23:00:40.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/senior-artist-manager-influencer-manager-mulheim-226518",
-      "tags": [
-        "Social Media Manager"
-      ],
-      "description": "Was wir Dir bieten:\n\nEine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-artist-manager-influencer-manager-mulheim-16569",
-      "title": "Artist Manager / Influencer Manager (m/w/d)",
-      "company": "Lionflence",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Mülheim",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T23:00:40.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/artist-manager-influencer-manager-mulheim-16569",
-      "tags": [
-        "Social Media Manager"
-      ],
-      "description": "Was wir Dir bieten:Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer M...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-junior-artist-manager-influencer-manager-berlin-12283",
-      "title": "Junior Artist Manager / Influencer Manager (m/w/d)",
-      "company": "Lionflence",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T23:00:39.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-berlin-12283",
-      "tags": [
-        "Social Media Manager"
-      ],
-      "description": "Was wir Dir bieten:\n\nEine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-artist-manager-influencer-manager-berlin-80583",
-      "title": "Artist Manager / Influencer Manager (m/w/d)",
-      "company": "Lionflence",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T23:00:39.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/artist-manager-influencer-manager-berlin-80583",
-      "tags": [
-        "Social Media Manager"
-      ],
-      "description": "Was wir Dir bieten:Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer M...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-artist-manager-influencer-manager-berlin-56968",
-      "title": "Senior Artist Manager / Influencer Manager (m/w/d)",
-      "company": "Lionflence",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T23:00:39.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/senior-artist-manager-influencer-manager-berlin-56968",
-      "tags": [
-        "Social Media Manager"
-      ],
-      "description": "Was wir Dir bieten:\n\nEine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-praktikum-vertrieb-marketing-pflichtpraktikum-6-monate-berlin-253962",
-      "title": "Praktikum Vertrieb & Marketing (m/w/d) Pflichtpraktikum (6 Monate)",
-      "company": "ODE International GmbH",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-16T22:00:40.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/ode-international-gmbh/praktikum-vertrieb-marketing-pflichtpraktikum-6-monate-berlin-253962",
-      "tags": [
-        "Marketing Assistant"
-      ],
-      "description": "Hi, wir sind ODE – der High-End-Aperitif aus Berlin. Wir entwickeln außergewöhnliche Geschmackserlebnisse und stehen für moderne Drinks mit Haltung.\nGood Taste ...",
+      "description": "&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, our core principles are at the heart of everything we do; creating a culture of...",
       "verified": true,
       "source": "Arbeitnow Verified"
     }
