@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T06:00:49.872Z",
+  "updated_at": "2026-11-21T05:55:51.166Z",
   "total_count": 33,
   "jobs": [
     {
@@ -11,7 +11,7 @@
       "location": "Pan India / Central Govt Departments",
       "type": "Full Time (Govt)",
       "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
-      "published_at": "2026-11-20T06:00:49.872Z",
+      "published_at": "2026-11-21T05:55:51.166Z",
       "url": "https://ssc.gov.in/",
       "tags": [
         "SSC CGL",
@@ -31,7 +31,7 @@
       "location": "All India Bank Branches",
       "type": "Full Time (Banking)",
       "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
-      "published_at": "2026-11-20T06:00:49.872Z",
+      "published_at": "2026-11-21T05:55:51.166Z",
       "url": "https://sbi.co.in/web/careers",
       "tags": [
         "Bank PO",
@@ -51,7 +51,7 @@
       "location": "Pan India Railway Zones",
       "type": "Govt Technical",
       "salary": "Level 6 CPC Matrix",
-      "published_at": "2026-11-20T06:00:49.872Z",
+      "published_at": "2026-11-21T05:55:51.166Z",
       "url": "https://indianrailways.gov.in/",
       "tags": [
         "RRB JE",
@@ -61,6 +61,27 @@
       "description": "Recruitment of Junior Engineers in Civil, Electrical, Mechanical and IT cadres.",
       "verified": true,
       "source": "Railway Recruitment"
+    },
+    {
+      "id": "remotive-2091177",
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "company_logo": "https://remotive.com/job/2091177/logo",
+      "category": "tech",
+      "location": "USA",
+      "type": "Remote",
+      "salary": "$14/hour",
+      "published_at": "2026-11-19T14:58:42",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177",
+      "tags": [
+        "android",
+        "ios",
+        "social media",
+        "teaching"
+      ],
+      "description": "Every search represents someone seeking reliable information. They depend on search results being accurate, trustworthy, and relevant to their local context. Bu...",
+      "verified": true,
+      "source": "Remotive Verified"
     },
     {
       "id": "remotive-2069746",
@@ -163,7 +184,7 @@
         "retail",
         "onboarding"
       ],
-      "description": "ShyftOff connects independent customer service professionals with opportunities to support leading brands across industries like healthcare, financial services,...",
+      "description": "Work From Home. Pick Your Schedule. Get Paid Weekly. Welcome to ShyftOff!Tired of traditional jobs that expect you to build your life around a fixed schedule? A...",
       "verified": true,
       "source": "Remotive Verified"
     },
@@ -352,293 +373,272 @@
       "source": "Remotive Verified"
     },
     {
-      "id": "remotive-2091161",
-      "title": "AI Trainer - Video Annotation",
-      "company": "iMerit Technology",
-      "company_logo": "https://remotive.com/job/2091161/logo",
-      "category": "tech",
-      "location": "Worldwide",
-      "type": "Remote",
-      "salary": "70K-80K",
-      "published_at": "2026-10-22T18:40:19",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
-      "tags": [
-        "video",
-        "AI/ML",
-        "robotics"
-      ],
-      "description": "AI Trainer - Video AnnotationRemote   |   Independent Contractor   Prove your skills. Get certified. Robotics AI is advancing rapidly, and high-quality video da...",
-      "verified": true,
-      "source": "Remotive Verified"
-    },
-    {
-      "id": "arbeit-senior-engineering-manager-munich-133190",
-      "title": "Senior Engineering Manager",
-      "company": "Xometryeurope",
+      "id": "arbeit-frontend-engineer-berlin-143307",
+      "title": "Frontend Engineer (m/f/x)",
+      "company": "Goegmbh",
       "company_logo": "",
       "category": "tech",
-      "location": "Munich",
+      "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:55:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/xometryeurope/senior-engineering-manager-munich-133190",
+      "published_at": "2026-11-21T03:55:17.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/goegmbh/frontend-engineer-berlin-143307",
       "tags": [
-        "Technology",
-        "EU"
+        "Development"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Xometry (NASDAQ: XMTR) powers the industries of today and tomorrow by connecting the people with big ideas t...",
+      "description": "&lt;p&gt;At go-e, we have been pursuing the development of our vision with passion and strength from the very beginning. We are moving in an area that is charac...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-remote-founding-tech-lead-growthbricks-155233",
-      "title": "Founding Tech Lead (GrowthBricks)",
-      "company": "jetbrains",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin; Remote",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:55:21.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-founding-tech-lead-growthbricks-155233",
-      "tags": [
-        "GrowthBricks"
-      ],
-      "description": "&lt;h1&gt;&lt;strong&gt;Founding Tech Lead (GrowthBricks)&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;Are you a hands-on engineer who loves zero-to-one challenges? Do yo...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-software-product-assurance-engineer-411479",
-      "title": "Software Product Assurance Engineer",
-      "company": "Constellrgmbh",
+      "id": "arbeit-partner-success-manager-technical-lead-german-speaking-428445",
+      "title": "Partner Success Manager, Technical Lead - German Speaking",
+      "company": "nice",
       "company_logo": "",
       "category": "tech",
       "location": "Europe/Global",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:55:18.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/constellrgmbh/software-product-assurance-engineer-411479",
+      "published_at": "2026-11-21T03:55:14.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/nice/partner-success-manager-technical-lead-german-speaking-428445",
       "tags": [
-        "Programme Management"
+        "GCO - Partners Mgmt"
       ],
-      "description": "&lt;h2 class=&quot;sc-1npqnwg-4 sc-1npqnwg-5 sc-1uwf3m5-0 ghXWGq custom-css-style-job-description&quot;&gt;Job description&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Tea...",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changer...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-system-engineer-softwareverteilung-client-management-mainz-248235",
-      "title": "System Engineer Softwareverteilung & Client Management",
-      "company": "True Talent Solutions Partners",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Mainz",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:43:07.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/system-engineer-softwareverteilung-client-management-mainz-248235",
-      "tags": [
-        "Client Roles"
-      ],
-      "description": "About the RoleJoin an IT services team supporting public sector and education customers with reliable infrastructure and client management solutions. You will i...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-partner-berlin-294583",
-      "title": "Senior Partner",
-      "company": "True Talent Solutions Partners",
+      "id": "arbeit-principal-ai-engineer-berlin-439680",
+      "title": "Principal AI Engineer (x/f/m)",
+      "company": "Doctolib",
       "company_logo": "",
       "category": "tech",
       "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:43:07.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-partner-berlin-294583",
+      "published_at": "2026-11-21T03:43:20.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/principal-ai-engineer-berlin-439680",
       "tags": [
-        "Client Roles"
+        "AI"
       ],
-      "description": "About the RoleJoin an AI-native legal services firm as a senior, market-facing partner. You will bring an established client practice to an AI-enabled platform ...",
+      "description": "We are looking for a Principal AI Engineer to join the Practice Efficiency team at Doctolib.Your mission will be to define and deliver how AI transforms the dai...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-system-administrator-freiburg-im-breisgau-343319",
-      "title": "Senior System Administrator",
-      "company": "True Talent Solutions Partners",
+      "id": "arbeit-it-support-spezialist-telematikinfrastruktur-healthcare-it-apis-berlin-60362",
+      "title": "IT Support Spezialist - Telematikinfrastruktur & Healthcare IT/APIs(x/f/m)",
+      "company": "Doctolib",
       "company_logo": "",
       "category": "tech",
-      "location": "Freiburg im Breisgau",
+      "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:43:07.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-system-administrator-freiburg-im-breisgau-343319",
+      "published_at": "2026-11-21T03:43:20.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/it-support-spezialist-telematikinfrastruktur-healthcare-it-apis-berlin-60362",
       "tags": [
-        "Client Roles"
+        "Customer Services & Solutions"
       ],
-      "description": "About the RoleJoin a small back-office IT team at a SaaS company, helping maintain secure and reliable infrastructure across a heterogeneous Windows and Linux e...",
+      "description": "Gemeinsam gestalten wir die Gesundheitsversorgung der ZukunftDu hast ein starkes technisches Wissen und Lust, Dich tief in die deutsche Healthcare-IT einzuarbei...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-business-solution-engineer-c-net-dusseldorf-23252",
-      "title": "Business Solution Engineer, C#/.NET",
-      "company": "True Talent Solutions Partners",
+      "id": "arbeit-senior-it-administrator-berlin-29019",
+      "title": "Senior IT Administrator (w/m/d)",
+      "company": "Stackfuel",
       "company_logo": "",
       "category": "tech",
-      "location": "Düsseldorf",
+      "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:43:07.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/business-solution-engineer-c-net-dusseldorf-23252",
+      "published_at": "2026-11-21T03:43:20.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/stackfuel/senior-it-administrator-berlin-29019",
       "tags": [
-        "Client Roles"
+        "System Administration"
       ],
-      "description": "About the RoleJoin a financial services team as a Business Solution Engineer, translating complex business needs into well-designed software solutions. You will...",
+      "description": "JobbeschreibungStackFuel ist seit Jahren einer der führenden Anbieter für Daten- und KI-Weiterbildung in Deutschland. Seit Anfang 2026 sind wir Teil von Multive...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-solution-consultant-munich-468622",
-      "title": "Solution Consultant",
-      "company": "True Talent Solutions Partners",
+      "id": "arbeit-it-working-student-munich-224684",
+      "title": "IT Working Student",
+      "company": "Kertos",
       "company_logo": "",
       "category": "tech",
       "location": "Munich",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:43:07.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/solution-consultant-munich-468622",
+      "published_at": "2026-11-21T03:43:19.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/kertos/it-working-student-munich-224684",
       "tags": [
-        "Client Roles"
+        "Product & Tech"
       ],
-      "description": "About the RoleJoin a presales team advising prospective customers on compliance and ethics software. You will help large, multinational organizations shape effe...",
+      "description": "Compliance is what stands between a European company and its next enterprise deal. Kertos clears it. Information security, data protection, and AI management ru...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-it-administrator-it-lead-ettlingen-237828",
-      "title": "IT Administrator / IT Lead",
-      "company": "True Talent Solutions Partners",
+      "id": "arbeit-techniker-garching-bei-munchen-140664",
+      "title": "Techniker (m/w/d)",
+      "company": "Rohlik",
       "company_logo": "",
       "category": "tech",
-      "location": "Ettlingen",
+      "location": "Garching bei München, Germany",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:43:07.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/it-administrator-it-lead-ettlingen-237828",
+      "published_at": "2026-11-21T03:43:19.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/techniker-garching-bei-munchen-140664",
       "tags": [
-        "Client Roles"
+        "Operations & Supply Chain"
       ],
-      "description": "About the RoleJoin the IT team as an IT Administrator, with the opportunity to take over IT leadership based on your suitability. You will maintain and secure t...",
+      "description": "Rohlik wurde 2014 in der Tschechischen Republik gegründet und ist der europäische Marktführer im Bereich E-Grocery in Mitteleuropa. Das Unternehmen ist bereits ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-devsecops-engineer-karlsruhe-371359",
-      "title": "Senior DevSecOps Engineer",
-      "company": "True Talent Solutions Partners",
+      "id": "arbeit-qualitatsmitarbeiter-lebensmittel-bischofsheim-36999",
+      "title": "Qualitätsmitarbeiter Lebensmittel (m/w/d)",
+      "company": "Rohlik",
       "company_logo": "",
       "category": "tech",
-      "location": "Karlsruhe",
+      "location": "Bischofsheim bei Frankfurt, Germany",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:43:07.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-devsecops-engineer-karlsruhe-371359",
+      "published_at": "2026-11-21T03:43:19.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/qualitatsmitarbeiter-lebensmittel-bischofsheim-36999",
       "tags": [
-        "Client Roles"
+        "Operations & Supply Chain"
       ],
-      "description": "About the RoleAs a Senior DevSecOps Engineer, you will build and operate secure, reliable cloud-native environments for digital services in the public sector. Y...",
+      "description": "Als Mitarbeiter in der Qualitätssicherung für Lebensmittel trägst du die Verantwortung für die kontinuierliche Sicherstellung der Produktqualität unseres Sortim...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-platform-engineer-linux-kubernetes-on-bare-metal-espelkamp-232211",
-      "title": "Senior Platform Engineer, Linux & Kubernetes on Bare Metal",
-      "company": "True Talent Solutions Partners",
+      "id": "arbeit-go-to-market-champion-gpu-ai-hamburg-447533",
+      "title": "Go-to-Market Champion (GPU & AI)",
+      "company": "Impossiblecloud",
       "company_logo": "",
-      "category": "tech",
-      "location": "Espelkamp",
+      "category": "marketing",
+      "location": "Hamburg",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:43:07.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-platform-engineer-linux-kubernetes-on-bare-metal-espelkamp-232211",
+      "published_at": "2026-11-21T03:26:46.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/impossiblecloud/go-to-market-champion-gpu-ai-hamburg-447533",
       "tags": [
-        "Client Roles"
+        "Sales"
       ],
-      "description": "About the RoleLead technical direction for a platform team rebuilding a hosting platform on owned hardware, with Kubernetes running directly on bare metal. You ...",
+      "description": "Group: Impossible Cloud / Impossible Cloud Network (ICN) \nFocus: Bridging Enterprise Storage &amp; Decentralized GPU Orchestration \n&nbsp;\nThe Mission\n&nbsp;\nIm...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-cloud-operations-engineer-berlin-109483",
-      "title": "Cloud Operations Engineer",
-      "company": "True Talent Solutions Partners",
+      "id": "arbeit-office-management-working-student-munich-or-karlsruhe-175687",
+      "title": "Office Management Working Student",
+      "company": "Quantco ",
       "company_logo": "",
       "category": "tech",
-      "location": "Berlin",
+      "location": "Munich or Karlsruhe",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:43:07.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/cloud-operations-engineer-berlin-109483",
+      "published_at": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantco/office-management-working-student-munich-or-karlsruhe-175687",
       "tags": [
-        "Client Roles"
+        "Operations"
       ],
-      "description": "About the RoleJoin a cloud operations team supporting the delivery and reliable operation of cloud-based systems for customers. You will help improve scalabilit...",
+      "description": "We are looking for highly proactive and service-oriented Office Management Working Students to maintain the outstanding work environment in our offices in Munic...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-network-engineer-espelkamp-329084",
-      "title": "Network Engineer",
-      "company": "True Talent Solutions Partners",
+      "id": "arbeit-unternehmensberaterin-senior-consultant-dusseldorf-141766",
+      "title": "UnternehmensberaterIn - Senior Consultant - Dusseldorf",
+      "company": "Efficioconsulting",
       "company_logo": "",
       "category": "tech",
-      "location": "Espelkamp",
+      "location": "Dusseldorf",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:43:07.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/network-engineer-espelkamp-329084",
+      "published_at": "2026-11-21T03:26:45.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/efficioconsulting/unternehmensberaterin-senior-consultant-dusseldorf-141766",
       "tags": [
-        "Client Roles"
+        "Consulting Team"
       ],
-      "description": "About the RoleJoin a team responsible for data center and network infrastructure that supports hosted technologies and a bare-metal Kubernetes platform. You wil...",
+      "description": "Bei Efficio sind wir mehr als nur eine Unternehmensberatung: Wir sind ein Team engagierter Expertinnen und Experten mit dem gemeinsamen Ziel, Einkaufs- und Supp...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-account-manager-wiesbaden-300835",
-      "title": "Senior Account Manager",
-      "company": "True Talent Solutions Partners",
+      "id": "arbeit-senior-mendix-engineer-munich-76612",
+      "title": "Senior Mendix Engineer",
+      "company": "Mendix",
       "company_logo": "",
       "category": "tech",
-      "location": "Wiesbaden",
+      "location": "Munich",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:43:07.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-account-manager-wiesbaden-300835",
+      "published_at": "2026-11-21T03:26:42.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/mendix/senior-mendix-engineer-munich-76612",
       "tags": [
-        "Client Roles"
+        "R&D"
       ],
-      "description": "About the RoleLead client relationships and digital marketing projects at a consultancy that combines strategic advice, hands-on delivery, and technology. You w...",
+      "description": "\nMendix – the leading low-code&nbsp;agentic&nbsp;enterprise&nbsp;platform:&nbsp;\nThe Mendix Platform uses visual&nbsp;modeling&nbsp;to abstract long-form coding...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-media-consultant-wiesbaden-391323",
-      "title": "Senior Media Consultant",
-      "company": "True Talent Solutions Partners",
+      "id": "arbeit-qualitatsmanagement-qualitatssicherung-specialist-remscheid-87669",
+      "title": "Qualitätsmanagement & Qualitätssicherung Specialist (m/w/d)",
+      "company": "Heaten Germany Gmbh",
       "company_logo": "",
       "category": "tech",
-      "location": "Wiesbaden",
+      "location": "Remscheid",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-20T03:43:07.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-media-consultant-wiesbaden-391323",
+      "published_at": "2026-11-21T03:26:42.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/heaten-germany-gmbh/qualitatsmanagement-qualitatssicherung-specialist-remscheid-87669",
       "tags": [
-        "Client Roles"
+        "Operations & Supply Chain"
       ],
-      "description": "About the RoleJoin a media consulting team that connects strategy, campaign execution, and technology. You will lead integrated media planning and performance w...",
+      "description": "HEATEN entwickelt innovative Hochtemperatur-Wärmepumpen für industrielle Anwendungen und unterstützt Unternehmen dabei, ihre Prozesswärme nachhaltig und wirtsch...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-servicenow-solution-platform-architect-open-124588",
+      "title": "ServiceNow Solution / Platform Architect (m/f/d)",
+      "company": "Qualysoft",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Open",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-21T03:26:41.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/qualysoft/servicenow-solution-platform-architect-open-124588",
+      "tags": [
+        "Business Operations"
+      ],
+      "description": "\nFor a client in Germany, we are looking for an experienced ServiceNow Architect to own the target architecture of the ServiceNow platform. You will translate b...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-media-relations-manager-36392",
+      "title": "Senior Media Relations Manager (m/f/d)",
+      "company": "mewssystems",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "Europe/Global",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-21T00:55:15.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/mewssystems/senior-media-relations-manager-36392",
+      "tags": [
+        "Marketing"
+      ],
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Help make the world more hospitable &lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;The hospitality indus...",
       "verified": true,
       "source": "Arbeitnow Verified"
     }
