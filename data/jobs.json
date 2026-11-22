@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T05:55:51.166Z",
+  "updated_at": "2026-11-22T05:29:04.513Z",
   "total_count": 33,
   "jobs": [
     {
@@ -11,7 +11,7 @@
       "location": "Pan India / Central Govt Departments",
       "type": "Full Time (Govt)",
       "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
-      "published_at": "2026-11-21T05:55:51.166Z",
+      "published_at": "2026-11-22T05:29:04.512Z",
       "url": "https://ssc.gov.in/",
       "tags": [
         "SSC CGL",
@@ -31,7 +31,7 @@
       "location": "All India Bank Branches",
       "type": "Full Time (Banking)",
       "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
-      "published_at": "2026-11-21T05:55:51.166Z",
+      "published_at": "2026-11-22T05:29:04.512Z",
       "url": "https://sbi.co.in/web/careers",
       "tags": [
         "Bank PO",
@@ -51,7 +51,7 @@
       "location": "Pan India Railway Zones",
       "type": "Govt Technical",
       "salary": "Level 6 CPC Matrix",
-      "published_at": "2026-11-21T05:55:51.166Z",
+      "published_at": "2026-11-22T05:29:04.512Z",
       "url": "https://indianrailways.gov.in/",
       "tags": [
         "RRB JE",
@@ -373,272 +373,274 @@
       "source": "Remotive Verified"
     },
     {
-      "id": "arbeit-frontend-engineer-berlin-143307",
-      "title": "Frontend Engineer (m/f/x)",
-      "company": "Goegmbh",
+      "id": "arbeit-enterprise-account-executive-499179",
+      "title": "Enterprise Account Executive",
+      "company": "Redwoodsoftware",
       "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:55:17.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/goegmbh/frontend-engineer-berlin-143307",
-      "tags": [
-        "Development"
-      ],
-      "description": "&lt;p&gt;At go-e, we have been pursuing the development of our vision with passion and strength from the very beginning. We are moving in an area that is charac...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-partner-success-manager-technical-lead-german-speaking-428445",
-      "title": "Partner Success Manager, Technical Lead - German Speaking",
-      "company": "nice",
-      "company_logo": "",
-      "category": "tech",
+      "category": "marketing",
       "location": "Europe/Global",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:55:14.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/nice/partner-success-manager-technical-lead-german-speaking-428445",
-      "tags": [
-        "GCO - Partners Mgmt"
-      ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At NiCE, we don’t limit our challenges. We challenge our limits. Always. We’re ambitious. We’re game changer...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-principal-ai-engineer-berlin-439680",
-      "title": "Principal AI Engineer (x/f/m)",
-      "company": "Doctolib",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:43:20.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/principal-ai-engineer-berlin-439680",
-      "tags": [
-        "AI"
-      ],
-      "description": "We are looking for a Principal AI Engineer to join the Practice Efficiency team at Doctolib.Your mission will be to define and deliver how AI transforms the dai...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-it-support-spezialist-telematikinfrastruktur-healthcare-it-apis-berlin-60362",
-      "title": "IT Support Spezialist - Telematikinfrastruktur & Healthcare IT/APIs(x/f/m)",
-      "company": "Doctolib",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:43:20.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/it-support-spezialist-telematikinfrastruktur-healthcare-it-apis-berlin-60362",
-      "tags": [
-        "Customer Services & Solutions"
-      ],
-      "description": "Gemeinsam gestalten wir die Gesundheitsversorgung der ZukunftDu hast ein starkes technisches Wissen und Lust, Dich tief in die deutsche Healthcare-IT einzuarbei...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-it-administrator-berlin-29019",
-      "title": "Senior IT Administrator (w/m/d)",
-      "company": "Stackfuel",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:43:20.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/stackfuel/senior-it-administrator-berlin-29019",
-      "tags": [
-        "System Administration"
-      ],
-      "description": "JobbeschreibungStackFuel ist seit Jahren einer der führenden Anbieter für Daten- und KI-Weiterbildung in Deutschland. Seit Anfang 2026 sind wir Teil von Multive...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-it-working-student-munich-224684",
-      "title": "IT Working Student",
-      "company": "Kertos",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Munich",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:43:19.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/kertos/it-working-student-munich-224684",
-      "tags": [
-        "Product & Tech"
-      ],
-      "description": "Compliance is what stands between a European company and its next enterprise deal. Kertos clears it. Information security, data protection, and AI management ru...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-techniker-garching-bei-munchen-140664",
-      "title": "Techniker (m/w/d)",
-      "company": "Rohlik",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Garching bei München, Germany",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:43:19.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/techniker-garching-bei-munchen-140664",
-      "tags": [
-        "Operations & Supply Chain"
-      ],
-      "description": "Rohlik wurde 2014 in der Tschechischen Republik gegründet und ist der europäische Marktführer im Bereich E-Grocery in Mitteleuropa. Das Unternehmen ist bereits ...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-qualitatsmitarbeiter-lebensmittel-bischofsheim-36999",
-      "title": "Qualitätsmitarbeiter Lebensmittel (m/w/d)",
-      "company": "Rohlik",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Bischofsheim bei Frankfurt, Germany",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:43:19.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/qualitatsmitarbeiter-lebensmittel-bischofsheim-36999",
-      "tags": [
-        "Operations & Supply Chain"
-      ],
-      "description": "Als Mitarbeiter in der Qualitätssicherung für Lebensmittel trägst du die Verantwortung für die kontinuierliche Sicherstellung der Produktqualität unseres Sortim...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-go-to-market-champion-gpu-ai-hamburg-447533",
-      "title": "Go-to-Market Champion (GPU & AI)",
-      "company": "Impossiblecloud",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Hamburg",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:26:46.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/impossiblecloud/go-to-market-champion-gpu-ai-hamburg-447533",
+      "published_at": "2026-11-22T03:55:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/redwoodsoftware/enterprise-account-executive-499179",
       "tags": [
         "Sales"
       ],
-      "description": "Group: Impossible Cloud / Impossible Cloud Network (ICN) \nFocus: Bridging Enterprise Storage &amp; Decentralized GPU Orchestration \n&nbsp;\nThe Mission\n&nbsp;\nIm...",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;strong&gt;OUR MISSION&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;At Redwood, we empower our...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-office-management-working-student-munich-or-karlsruhe-175687",
-      "title": "Office Management Working Student",
-      "company": "Quantco ",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Munich or Karlsruhe",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:26:45.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantco/office-management-working-student-munich-or-karlsruhe-175687",
-      "tags": [
-        "Operations"
-      ],
-      "description": "We are looking for highly proactive and service-oriented Office Management Working Students to maintain the outstanding work environment in our offices in Munic...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-unternehmensberaterin-senior-consultant-dusseldorf-141766",
-      "title": "UnternehmensberaterIn - Senior Consultant - Dusseldorf",
-      "company": "Efficioconsulting",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Dusseldorf",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:26:45.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/efficioconsulting/unternehmensberaterin-senior-consultant-dusseldorf-141766",
-      "tags": [
-        "Consulting Team"
-      ],
-      "description": "Bei Efficio sind wir mehr als nur eine Unternehmensberatung: Wir sind ein Team engagierter Expertinnen und Experten mit dem gemeinsamen Ziel, Einkaufs- und Supp...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-mendix-engineer-munich-76612",
-      "title": "Senior Mendix Engineer",
-      "company": "Mendix",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Munich",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:26:42.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/mendix/senior-mendix-engineer-munich-76612",
-      "tags": [
-        "R&D"
-      ],
-      "description": "\nMendix – the leading low-code&nbsp;agentic&nbsp;enterprise&nbsp;platform:&nbsp;\nThe Mendix Platform uses visual&nbsp;modeling&nbsp;to abstract long-form coding...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-qualitatsmanagement-qualitatssicherung-specialist-remscheid-87669",
-      "title": "Qualitätsmanagement & Qualitätssicherung Specialist (m/w/d)",
-      "company": "Heaten Germany Gmbh",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Remscheid",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:26:42.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/heaten-germany-gmbh/qualitatsmanagement-qualitatssicherung-specialist-remscheid-87669",
-      "tags": [
-        "Operations & Supply Chain"
-      ],
-      "description": "HEATEN entwickelt innovative Hochtemperatur-Wärmepumpen für industrielle Anwendungen und unterstützt Unternehmen dabei, ihre Prozesswärme nachhaltig und wirtsch...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-servicenow-solution-platform-architect-open-124588",
-      "title": "ServiceNow Solution / Platform Architect (m/f/d)",
-      "company": "Qualysoft",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Open",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T03:26:41.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/qualysoft/servicenow-solution-platform-architect-open-124588",
-      "tags": [
-        "Business Operations"
-      ],
-      "description": "\nFor a client in Germany, we are looking for an experienced ServiceNow Architect to own the target architecture of the ServiceNow platform. You will translate b...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-media-relations-manager-36392",
-      "title": "Senior Media Relations Manager (m/f/d)",
-      "company": "mewssystems",
+      "id": "arbeit-remote-retention-clv-operator-all-genders-388619",
+      "title": "Retention & CLV Operator (all genders)",
+      "company": "Glow25",
       "company_logo": "",
       "category": "marketing",
-      "location": "Europe/Global",
+      "location": "Remote - Europe Only",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-21T00:55:15.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/mewssystems/senior-media-relations-manager-36392",
+      "published_at": "2026-11-22T03:43:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/glow25/remote-retention-clv-operator-all-genders-388619",
       "tags": [
         "Marketing"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Help make the world more hospitable &lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;The hospitality indus...",
+      "description": "Welcome to Glow25!At Glow25, we unite beauty with science and cutting-edge technology – AI is a natural part of our everyday work. As Germany's leading collagen...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-remote-growth-acquisition-operator-all-genders-455935",
+      "title": "Growth Acquisition Operator (all genders)",
+      "company": "Glow25",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "Remote - Europe Only",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T03:43:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/glow25/remote-growth-acquisition-operator-all-genders-455935",
+      "tags": [
+        "Marketing"
+      ],
+      "description": "Welcome to Glow25!At Glow25, we unite beauty with science and cutting-edge technology – AI is a natural part of our everyday work. As Germany's leading collagen...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-remote-project-manager-emea-production-366622",
+      "title": "Project Manager EMEA, Production",
+      "company": "LILT (Production)",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Remote",
+      "type": "Remote",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T03:43:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/remote-project-manager-emea-production-366622",
+      "tags": [
+        "Production"
+      ],
+      "description": "RESPONSIBILITIES:Orchestrate complex workflows including translation, QA, DTP, multimedia, and linguistic sign-off for LILT’s largest enterprise customers.Engag...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-dein-einstieg-in-den-vertrieb-als-sdr-quereinsteiger-willkommen-cologne-496630",
+      "title": "Dein Einstieg in den Vertrieb als SDR (m/w/d) – Quereinsteiger willkommen",
+      "company": "SoSafe",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "Cologne",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T03:43:08.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/sosafe/dein-einstieg-in-den-vertrieb-als-sdr-quereinsteiger-willkommen-cologne-496630",
+      "tags": [
+        "Sales"
+      ],
+      "description": "Du trägst das Herz auf der Zunge und zählst Networking zu Deinen Hobbies? Du könntest sogar den Grinch von Weihnachten überzeugen? Du hast Lust auf ein dynamisc...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-associate-security-engineer-berlin-67826",
+      "title": "Associate Security Engineer",
+      "company": "Kayak",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin Office",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T03:43:08.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/kayak/associate-security-engineer-berlin-67826",
+      "tags": [
+        "Cost Centers"
+      ],
+      "description": "KAYAK, part of Booking Holdings (NASDAQ: BKNG), is a leading travel search engine. With billions of queries across our platforms, we help people find their perf...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-staff-data-platform-engineer-berlin-152496",
+      "title": "Staff Data Platform Engineer",
+      "company": "Kayak",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin Office",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T03:43:08.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/kayak/staff-data-platform-engineer-berlin-152496",
+      "tags": [
+        "Cost Centers"
+      ],
+      "description": "KAYAK, part of Booking Holdings (NASDAQ: BKNG), is a leading travel search engine. With billions of queries across our platforms, we help people find their perf...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-remote-solutions-engineer-dach-303095",
+      "title": "Solutions Engineer DACH (m/f/d)",
+      "company": "360Learning",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "Berlin, Remote",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T03:07:47.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-solutions-engineer-dach-303095",
+      "tags": [
+        "Sales & Business Development"
+      ],
+      "description": "As a Solutions Engineer, you will be working at the intersection of Sales, Product and Customer Success, working with top learning and development organizations...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-remote-enterprise-account-executive-432204",
+      "title": "Enterprise Account Executive (m/f/d)",
+      "company": "360Learning",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "Berlin, Remote",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T03:07:47.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-enterprise-account-executive-432204",
+      "tags": [
+        "Sales & Business Development"
+      ],
+      "description": "As the first Enterprise Account Executive for DACH, you will lead 360Learning’s expansion into one of Europe’s most strategic markets. Joining a team of 9 Enter...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-security-engineer-hamburg-422270",
+      "title": "Senior Security Engineer",
+      "company": "freiheit.com technologies",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Hamburg",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T03:07:46.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/senior-security-engineer-hamburg-422270",
+      "tags": [
+        "Security"
+      ],
+      "description": "\nÜBER UNSERE COMPANY\nfreiheit.com wurde 1999 in Hamburg gegründet und entwickelt seitdem custom large-scale Softwareprodukte. Unsere Mission ist: “Ship great so...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-product-designer-systems-ai-b2b-saas-berlin-hybrid-405649",
+      "title": "(Senior) Product Designer - Systems & AI (m/w/d) - B2B SaaS | Berlin (hybrid)",
+      "company": "Packmatic",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T03:07:45.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/packmatic/senior-product-designer-systems-ai-b2b-saas-berlin-hybrid-405649",
+      "tags": [
+        "Product"
+      ],
+      "description": "\nPacka is the leading platform for managing packaging specifications—we help companies reduce packaging costs and efficiently implement sustainability requireme...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-mid-market-enterprise-account-executive-berlin-469531",
+      "title": "Mid-Market / Enterprise Account Executive",
+      "company": "Deliverect",
+      "company_logo": "",
+      "category": "marketing",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T03:07:45.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/deliverect/mid-market-enterprise-account-executive-berlin-469531",
+      "tags": [
+        "Mid Market Sales"
+      ],
+      "description": "At Deliverect, our API-first platform is revolutionizing commerce by providing a connected suite of on and off-premise solutions. We empower both the food and r...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-manager-talent-acquisition-munich-germany-474208",
+      "title": "Senior Manager, Talent Acquisition",
+      "company": "CesiumAstro",
+      "company_logo": "",
+      "category": "design",
+      "location": "Munich, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T03:07:45.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/cesiumastro/senior-manager-talent-acquisition-munich-germany-474208",
+      "tags": [
+        "Recruiting"
+      ],
+      "description": "At&nbsp;CesiumAstro, we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne ...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-innovative-planning-manager-data-centres-buildings-high-tech-infrastructure-germany-hybrid-261098",
+      "title": "Innovative Planning Manager (Data Centres/Buildings/High-tech/Infrastructure) - Germany (Hybrid)",
+      "company": "Laminarprojects",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T03:07:42.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/laminarprojects/innovative-planning-manager-data-centres-buildings-high-tech-infrastructure-germany-hybrid-261098",
+      "tags": [
+        "Planning & Controls"
+      ],
+      "description": "Are you a seasoned construction planner that is a bit tired of the standard old-fashioned wayof doing things in the construction industry?Do you get deep satisf...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-237149",
+      "title": "Qualitätsmanager:in für App-, Website- und Filialen-Tests (m/w/d)",
+      "company": "Probantica",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Remote",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-22T03:00:31.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/probantica/qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-237149",
+      "tags": [
+        "Remote",
+        "Quality Assurance",
+        "Inspection"
+      ],
+      "description": "Über unsProbantica ist ein Anbieter für Qualitätstests aus Köln. Wir prüfen im Auftrag von Unternehmen, ob digitale Produkte und Abläufe vor Ort im Alltag funkt...",
       "verified": true,
       "source": "Arbeitnow Verified"
     }
