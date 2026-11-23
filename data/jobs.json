@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T05:29:04.513Z",
+  "updated_at": "2026-11-23T06:08:36.225Z",
   "total_count": 33,
   "jobs": [
     {
@@ -11,7 +11,7 @@
       "location": "Pan India / Central Govt Departments",
       "type": "Full Time (Govt)",
       "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
-      "published_at": "2026-11-22T05:29:04.512Z",
+      "published_at": "2026-11-23T06:08:36.225Z",
       "url": "https://ssc.gov.in/",
       "tags": [
         "SSC CGL",
@@ -31,7 +31,7 @@
       "location": "All India Bank Branches",
       "type": "Full Time (Banking)",
       "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
-      "published_at": "2026-11-22T05:29:04.512Z",
+      "published_at": "2026-11-23T06:08:36.225Z",
       "url": "https://sbi.co.in/web/careers",
       "tags": [
         "Bank PO",
@@ -51,7 +51,7 @@
       "location": "Pan India Railway Zones",
       "type": "Govt Technical",
       "salary": "Level 6 CPC Matrix",
-      "published_at": "2026-11-22T05:29:04.512Z",
+      "published_at": "2026-11-23T06:08:36.225Z",
       "url": "https://indianrailways.gov.in/",
       "tags": [
         "RRB JE",
@@ -373,274 +373,271 @@
       "source": "Remotive Verified"
     },
     {
-      "id": "arbeit-enterprise-account-executive-499179",
-      "title": "Enterprise Account Executive",
-      "company": "Redwoodsoftware",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Europe/Global",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:55:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/redwoodsoftware/enterprise-account-executive-499179",
-      "tags": [
-        "Sales"
-      ],
-      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;strong&gt;OUR MISSION&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;At Redwood, we empower our...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-remote-retention-clv-operator-all-genders-388619",
-      "title": "Retention & CLV Operator (all genders)",
-      "company": "Glow25",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Remote - Europe Only",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:43:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/glow25/remote-retention-clv-operator-all-genders-388619",
-      "tags": [
-        "Marketing"
-      ],
-      "description": "Welcome to Glow25!At Glow25, we unite beauty with science and cutting-edge technology – AI is a natural part of our everyday work. As Germany's leading collagen...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-remote-growth-acquisition-operator-all-genders-455935",
-      "title": "Growth Acquisition Operator (all genders)",
-      "company": "Glow25",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Remote - Europe Only",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:43:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/glow25/remote-growth-acquisition-operator-all-genders-455935",
-      "tags": [
-        "Marketing"
-      ],
-      "description": "Welcome to Glow25!At Glow25, we unite beauty with science and cutting-edge technology – AI is a natural part of our everyday work. As Germany's leading collagen...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-remote-project-manager-emea-production-366622",
-      "title": "Project Manager EMEA, Production",
-      "company": "LILT (Production)",
+      "id": "arbeit-warehouse-specialist-munich-351393",
+      "title": "Warehouse Specialist",
+      "company": "Proxima Fusion GmbH",
       "company_logo": "",
       "category": "tech",
-      "location": "Remote",
+      "location": "Munich",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T03:42:54.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/warehouse-specialist-munich-351393",
+      "tags": [
+        "Business Operations"
+      ],
+      "description": "WHO WE ARE Proxima Fusion is Europe’s fastest-growing fusion company and the continent’s best-funded fusion player, as well as the first spin-out from the Max P...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-werkstudent-it-system-management-it-business-33100-215176",
+      "title": "Werkstudent IT-System-Management / IT & Business (m/w/d)",
+      "company": "OctoGate IT Security Systems GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "33100, Nordrhein-Westfalen, Deutschland",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T03:31:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/octogate-it-security-systems-gmbh/werkstudent-it-system-management-it-business-33100-215176",
+      "tags": [
+        "Entwicklung"
+      ],
+      "description": "🚀 Werde Teil von OctogateDu willst dein Studium nicht nur theoretisch absolvieren, sondern echte Praxiserfahrung sammeln und verstehen, wie IT und Business zus...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-remote-hands-on-engineering-manager-c-vue-6698",
+      "title": "Hands-on Engineering Manager (C#/Vue)",
+      "company": "Miaplaza",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Remote job",
       "type": "Remote",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:43:11.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/lilt-production/remote-project-manager-emea-production-366622",
+      "published_at": "2026-11-23T03:31:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698",
       "tags": [
-        "Production"
+        "Remote"
       ],
-      "description": "RESPONSIBILITIES:Orchestrate complex workflows including translation, QA, DTP, multimedia, and linguistic sign-off for LILT’s largest enterprise customers.Engag...",
+      "description": "Location: 100% remote (EMEA + South America)Classification: Full-timePay Range: €82,000–140,000; determined by several factors, including locationMiaplaza is lo...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-dein-einstieg-in-den-vertrieb-als-sdr-quereinsteiger-willkommen-cologne-496630",
-      "title": "Dein Einstieg in den Vertrieb als SDR (m/w/d) – Quereinsteiger willkommen",
-      "company": "SoSafe",
+      "id": "arbeit-it-systems-platform-engineer-siegen-142049",
+      "title": "IT Systems & Platform Engineer (f/m/d)",
+      "company": "eleQtron GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Siegen, Nordrhein-Westfalen, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T03:31:34.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/it-systems-platform-engineer-siegen-142049",
+      "tags": [
+        "IT Support & Security"
+      ],
+      "description": "eleQtron develops and operates full-stack quantum computers based on trapped-ion technology. Quantum computing is a new computing paradigm rapidly approaching c...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-71768",
+      "title": "Senior CRM & Lifecycle Analyst (B2C) – Marketing Automation (all genders)",
+      "company": "Foodji GmbH",
       "company_logo": "",
       "category": "marketing",
-      "location": "Cologne",
+      "location": "München, Bayern, Deutschland",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:43:08.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/sosafe/dein-einstieg-in-den-vertrieb-als-sdr-quereinsteiger-willkommen-cologne-496630",
+      "published_at": "2026-11-23T03:31:33.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-crm-lifecycle-analyst-b2c-marketing-automation-all-genders-munchen-71768",
       "tags": [
-        "Sales"
+        "Marketing"
       ],
-      "description": "Du trägst das Herz auf der Zunge und zählst Networking zu Deinen Hobbies? Du könntest sogar den Grinch von Weihnachten überzeugen? Du hast Lust auf ein dynamisc...",
+      "description": "Analytics first: Du baust CRM und Lifecycle Marketing bei Foodji komplett neu auf, vom analytischen Fundament bis zur Integration der Systeme – datengetrieben, ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-associate-security-engineer-berlin-67826",
-      "title": "Associate Security Engineer",
-      "company": "Kayak",
+      "id": "arbeit-sap-transportation-management-solution-architect-heidelberg-germany-319375",
+      "title": "SAP Transportation Management Solution Architect (f/m/d)",
+      "company": "Westernacher",
       "company_logo": "",
       "category": "tech",
-      "location": "Berlin Office",
+      "location": "Heidelberg, Germany",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:43:08.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/kayak/associate-security-engineer-berlin-67826",
+      "published_at": "2026-11-23T03:26:23.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/westernacher/sap-transportation-management-solution-architect-heidelberg-germany-319375",
       "tags": [
-        "Cost Centers"
+        "Europe"
       ],
-      "description": "KAYAK, part of Booking Holdings (NASDAQ: BKNG), is a leading travel search engine. With billions of queries across our platforms, we help people find their perf...",
+      "description": "\nWesternacher Consulting is looking for an experienced SAP Transportation Management Solution Architect to join our consulting team in Germany. In this role, yo...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-staff-data-platform-engineer-berlin-152496",
-      "title": "Staff Data Platform Engineer",
-      "company": "Kayak",
+      "id": "arbeit-finance-director-germany-458238",
+      "title": "FINANCE DIRECTOR (m/w/d)",
+      "company": "Valpeo.com",
       "company_logo": "",
-      "category": "tech",
-      "location": "Berlin Office",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:43:08.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/kayak/staff-data-platform-engineer-berlin-152496",
-      "tags": [
-        "Cost Centers"
-      ],
-      "description": "KAYAK, part of Booking Holdings (NASDAQ: BKNG), is a leading travel search engine. With billions of queries across our platforms, we help people find their perf...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-remote-solutions-engineer-dach-303095",
-      "title": "Solutions Engineer DACH (m/f/d)",
-      "company": "360Learning",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Berlin, Remote",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:07:47.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-solutions-engineer-dach-303095",
-      "tags": [
-        "Sales & Business Development"
-      ],
-      "description": "As a Solutions Engineer, you will be working at the intersection of Sales, Product and Customer Success, working with top learning and development organizations...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-remote-enterprise-account-executive-432204",
-      "title": "Enterprise Account Executive (m/f/d)",
-      "company": "360Learning",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Berlin, Remote",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:07:47.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-enterprise-account-executive-432204",
-      "tags": [
-        "Sales & Business Development"
-      ],
-      "description": "As the first Enterprise Account Executive for DACH, you will lead 360Learning’s expansion into one of Europe’s most strategic markets. Joining a team of 9 Enter...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-security-engineer-hamburg-422270",
-      "title": "Senior Security Engineer",
-      "company": "freiheit.com technologies",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Hamburg",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:07:46.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/senior-security-engineer-hamburg-422270",
-      "tags": [
-        "Security"
-      ],
-      "description": "\nÜBER UNSERE COMPANY\nfreiheit.com wurde 1999 in Hamburg gegründet und entwickelt seitdem custom large-scale Softwareprodukte. Unsere Mission ist: “Ship great so...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-product-designer-systems-ai-b2b-saas-berlin-hybrid-405649",
-      "title": "(Senior) Product Designer - Systems & AI (m/w/d) - B2B SaaS | Berlin (hybrid)",
-      "company": "Packmatic",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:07:45.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/packmatic/senior-product-designer-systems-ai-b2b-saas-berlin-hybrid-405649",
-      "tags": [
-        "Product"
-      ],
-      "description": "\nPacka is the leading platform for managing packaging specifications—we help companies reduce packaging costs and efficiently implement sustainability requireme...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-mid-market-enterprise-account-executive-berlin-469531",
-      "title": "Mid-Market / Enterprise Account Executive",
-      "company": "Deliverect",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:07:45.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/deliverect/mid-market-enterprise-account-executive-berlin-469531",
-      "tags": [
-        "Mid Market Sales"
-      ],
-      "description": "At Deliverect, our API-first platform is revolutionizing commerce by providing a connected suite of on and off-premise solutions. We empower both the food and r...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-manager-talent-acquisition-munich-germany-474208",
-      "title": "Senior Manager, Talent Acquisition",
-      "company": "CesiumAstro",
-      "company_logo": "",
-      "category": "design",
-      "location": "Munich, Germany",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:07:45.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/cesiumastro/senior-manager-talent-acquisition-munich-germany-474208",
-      "tags": [
-        "Recruiting"
-      ],
-      "description": "At&nbsp;CesiumAstro, we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne ...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-innovative-planning-manager-data-centres-buildings-high-tech-infrastructure-germany-hybrid-261098",
-      "title": "Innovative Planning Manager (Data Centres/Buildings/High-tech/Infrastructure) - Germany (Hybrid)",
-      "company": "Laminarprojects",
-      "company_logo": "",
-      "category": "tech",
+      "category": "finance",
       "location": "Germany",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:07:42.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/laminarprojects/innovative-planning-manager-data-centres-buildings-high-tech-infrastructure-germany-hybrid-261098",
+      "published_at": "2026-11-23T03:26:17.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/valpeocom/finance-director-germany-458238",
       "tags": [
-        "Planning & Controls"
+        "Finance Management"
       ],
-      "description": "Are you a seasoned construction planner that is a bit tired of the standard old-fashioned wayof doing things in the construction industry?Do you get deep satisf...",
+      "description": "\nPerspektive CFO | FINANCE &amp; CONTROLLING | TRANSFORMATION | NRW\n&nbsp;\nDAS UNTERNEHMEN\nUnser Mandant ist eine international tätige Unternehmensgruppe im Ber...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-237149",
-      "title": "Qualitätsmanager:in für App-, Website- und Filialen-Tests (m/w/d)",
-      "company": "Probantica",
+      "id": "arbeit-senior-aws-consultant-garching-bei-munchen-bayern-134293",
+      "title": "Senior AWS Consultant (m/w/d)",
+      "company": "Skaylink",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Garching bei München, Bayern",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T03:26:17.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/skaylink/senior-aws-consultant-garching-bei-munchen-bayern-134293",
+      "tags": [
+        "AWS Professional Services"
+      ],
+      "description": "\nDu möchtest Unternehmen auf ihrem Weg in die Cloud begleiten und dabei moderne AWS-Lösungen mit echtem Mehrwert entwickeln? Als Senior Consultant AWS (m/w/d) u...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-sw-engineering-lead-munich-114223",
+      "title": "SW Engineering Lead",
+      "company": "Tulip Interfaces",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Munich, Bavaria, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T00:46:00.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/tulip-interfaces/sw-engineering-lead-munich-114223",
+      "tags": [],
+      "description": "This role is located in Munich, Germany. TULIP is a hybrid work environment and we are in the office 3+ days/per week.\nAbout TULIP\nTULIP is the frontline operat...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-events-associate-berlin-232079",
+      "title": "Events Associate",
+      "company": "Prior Labs",
       "company_logo": "",
       "category": "tech",
       "location": "Berlin",
-      "type": "Remote",
+      "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-22T03:00:31.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/probantica/qualitatsmanagerin-fur-app-website-und-filialen-tests-berlin-237149",
+      "published_at": "2026-11-23T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/prior-labs/events-associate-berlin-232079",
       "tags": [
-        "Remote",
-        "Quality Assurance",
-        "Inspection"
+        "Go-to-Market"
       ],
-      "description": "Über unsProbantica ist ein Anbieter für Qualitätstests aus Köln. Wir prüfen im Auftrag von Unternehmen, ob digitale Produkte und Abläufe vor Ort im Alltag funkt...",
+      "description": "Who we areFoundation models transformed text and images. Structured data - the largest and most consequential data format in the world - stayed untouched, until...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-graduate-sales-associate-berlin-444368",
+      "title": "Graduate Sales Associate (f/m/d)",
+      "company": "Moss",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/moss/graduate-sales-associate-berlin-444368",
+      "tags": [
+        "Commercial"
+      ],
+      "description": "At Moss, we give finance professionals the power to automate their day-to-day and make forward-thinking decisions.Our culture is what makes that possible: we pl...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-business-development-representative-berlin-340354",
+      "title": "Business Development Representative (f/m/d)",
+      "company": "Moss",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T00:40:11.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/moss/business-development-representative-berlin-340354",
+      "tags": [
+        "Commercial"
+      ],
+      "description": "At Moss, we give finance professionals the power to automate their day-to-day and make forward-thinking decisions.Our culture is what makes that possible: we pl...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-technical-project-manager-dach-munich-119305",
+      "title": "Technical Project Manager - Dach (m/f/d)",
+      "company": "Tandem Health",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Munich",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T00:40:10.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/tandem-health/technical-project-manager-dach-munich-119305",
+      "tags": [
+        "Product & Engineering"
+      ],
+      "description": "Build something monumental for Healthcare!At Tandem Health we’re reimagining healthcare by putting clinicians first. Our platform - designed by clinicians, for ...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-solution-architect-gilching-15151",
+      "title": "Solution Architect (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Gilching, Bayern, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T00:31:21.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/solution-architect-gilching-15151",
+      "tags": [
+        "Customer Success",
+        "Support & Training"
+      ],
+      "description": "As a Solution Architect, you will drive the development of integrated system designs for our unmanned platforms used in demanding defense and security environme...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-group-master-data-manager-customers-dusseldorf-280263",
+      "title": "Group Master Data Manager Customers",
+      "company": "Intersnack IT KG",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Düsseldorf, Nordrhein-Westfalen, Germany",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-23T00:31:19.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/intersnack-it-kg/group-master-data-manager-customers-dusseldorf-280263",
+      "tags": [
+        "Information Management"
+      ],
+      "description": "We want you to grow with us:We are strengthening our Information Management function. As our next Group Master Data Manager Customers, you will lead the custome...",
       "verified": true,
       "source": "Arbeitnow Verified"
     }
