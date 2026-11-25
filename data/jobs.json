@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T08:45:53.434Z",
+  "updated_at": "2026-11-25T07:20:59.193Z",
   "total_count": 33,
   "jobs": [
     {
@@ -11,7 +11,7 @@
       "location": "Pan India / Central Govt Departments",
       "type": "Full Time (Govt)",
       "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
-      "published_at": "2026-11-24T08:45:53.434Z",
+      "published_at": "2026-11-25T07:20:59.193Z",
       "url": "https://ssc.gov.in/",
       "tags": [
         "SSC CGL",
@@ -31,7 +31,7 @@
       "location": "All India Bank Branches",
       "type": "Full Time (Banking)",
       "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
-      "published_at": "2026-11-24T08:45:53.434Z",
+      "published_at": "2026-11-25T07:20:59.193Z",
       "url": "https://sbi.co.in/web/careers",
       "tags": [
         "Bank PO",
@@ -51,7 +51,7 @@
       "location": "Pan India Railway Zones",
       "type": "Govt Technical",
       "salary": "Level 6 CPC Matrix",
-      "published_at": "2026-11-24T08:45:53.434Z",
+      "published_at": "2026-11-25T07:20:59.193Z",
       "url": "https://indianrailways.gov.in/",
       "tags": [
         "RRB JE",
@@ -373,274 +373,272 @@
       "source": "Remotive Verified"
     },
     {
-      "id": "arbeit-sps-programmierer-automatisierungstechniker-dohna-67099",
-      "title": "SPS-Programmierer / Automatisierungstechniker (m/w/d)",
-      "company": "HiOffice",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Dohna",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T08:00:39.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/hioffice/sps-programmierer-automatisierungstechniker-dohna-67099",
-      "tags": [
-        "Automation Engineering"
-      ],
-      "description": "Kein Projekt gleicht dem anderen: Im Sondermaschinenbau programmierst du SPS und Roboter für Prototypen, die es so noch nicht gibt. Du lernst jeden Tag dazu und...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-referentin-business-continuity-management-bcm-it-notfallmanagement-dusseldorf-392174",
-      "title": "Referentin Business Continuity Management (BCM) / IT-Notfallmanagement (m/w/d)",
-      "company": "Hochschul-IT-Services.nrw",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Düsseldorf",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T08:00:39.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/hochschul-it-servicesnrw/referentin-business-continuity-management-bcm-it-notfallmanagement-dusseldorf-392174",
-      "tags": [
-        "IT Security"
-      ],
-      "description": "Standort: Düsseldorf | Vertrag: befristet (3 Jahre) | Arbeitszeit: VollzeitMach Business Continuity Management für Hochschulen praktisch wirksamHITS.nrw ist zen...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-embedded-software-engineer-aschheim-368276",
-      "title": "Embedded Software Engineer (m/w/d)",
-      "company": "FEW Bauer GmbH",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Aschheim",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T07:00:44.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/few-bauer-gmbh/embedded-software-engineer-aschheim-368276",
-      "tags": [
-        "Embedded Systems",
-        "Firmware Development"
-      ],
-      "description": "Die FEW Bauer GmbH ist ein innovatives Entwicklungsunternehmen im Bereich Hard- und Softwareherstellung mit Sitz in Aschheim bei München.Mit unserem engagierten...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-marketing-generalist-brand-events-partnerships-munich-225995",
-      "title": "Marketing Generalist (Brand, Events & Partnerships)",
-      "company": "Atira",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Munich",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T06:40:10.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/atira/marketing-generalist-brand-events-partnerships-munich-225995",
-      "tags": [
-        "GTM"
-      ],
-      "description": "About AtiraAtira builds the commercial brain for industrials. Our agents 10x the sales engineers of today by offering the complete toolbox of tasks needed in co...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-full-stack-engineer-munich-350189",
-      "title": "(Senior) Full Stack Engineer (m/f/d)",
-      "company": "Yoummday",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Munich",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T06:40:09.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/yoummday/senior-full-stack-engineer-munich-350189",
-      "tags": [
-        "Research & Development / Engineering"
-      ],
-      "description": "Your missionBuild software that helps thousands of service agents deliver better customer experiences. As a (Senior) Full Stack Engineer in our Platform Develop...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-account-director-public-sector-dach-berlin-440377",
-      "title": "Account Director (Public Sector DACH)",
-      "company": "Deepsetai",
+      "id": "arbeit-senior-salesforce-administrator-berlin-244565",
+      "title": "Senior Salesforce Administrator",
+      "company": "Ninjaone",
       "company_logo": "",
       "category": "marketing",
       "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T06:40:09.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/deepsetai/account-director-public-sector-dach-berlin-440377",
+      "published_at": "2026-11-25T03:55:14.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/ninjaone/senior-salesforce-administrator-berlin-244565",
       "tags": [
         "Sales"
       ],
-      "description": "TL;DRYou'll open and build deepset's public sector business across Germany, Austria and Switzerland, selling sovereign AI to federal, state and municipal admini...",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About us&lt;/h3&gt;\n&lt;p&gt;NinjaOne unifies IT to simplify work for nearly 40,000 customers in 140+ count...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-remote-praktikum-presales-ai-scale-up-43058",
-      "title": "Praktikum PreSales AI Scale Up (m/w/d)",
-      "company": "Flip GmbH",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Remote (Germany)",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T06:40:09.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/flip-gmbh/remote-praktikum-presales-ai-scale-up-43058",
-      "tags": [
-        "Sales"
-      ],
-      "description": "Empower every employee.KI hat verändert, wie Menschen im Büro arbeiten. Bei den 80 % der weltweiten Belegschaft, die nicht am Schreibtisch sitzen, ist sie kaum ...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-working-student-data-engineering-mlops-munich-264532",
-      "title": "Working Student – Data Engineering & MLOps (m/f/d)",
-      "company": "TYTAN Technologies GmbH",
+      "id": "arbeit-engineering-lead-germany-berlin-308123",
+      "title": "Engineering Lead, Germany",
+      "company": "Parallel",
       "company_logo": "",
       "category": "tech",
-      "location": "Munich, Bayern, Germany",
+      "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T06:31:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-data-engineering-mlops-munich-264532",
+      "published_at": "2026-11-25T03:43:14.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/parallel/engineering-lead-germany-berlin-308123",
+      "tags": [
+        "Product & Engineering"
+      ],
+      "description": "At Parallel, we build AI agents that help healthcare organizations automate their administrative processes and unlock additional revenue, starting with medical ...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-customer-success-manager-smb-german-market-berlin-435003",
+      "title": "Customer Success Manager | SMB | German Market (Berlin)",
+      "company": "Lexroom",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-25T03:43:14.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/lexroom/customer-success-manager-smb-german-market-berlin-435003",
+      "tags": [
+        "Customer Success"
+      ],
+      "description": "At Lexroom, we set the bar for legal AI—clear, fast, and built for trust. In just a few years, what began as an idea has become a reliable platform adopted by t...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-sales-manager-munich-305658",
+      "title": "Senior Sales Manager (f/m/d)",
+      "company": "Munich Electrification",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Munich",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-25T03:43:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/munich-electrification/senior-sales-manager-munich-305658",
+      "tags": [
+        "Munich Electrification"
+      ],
+      "description": "About Munich ElectrificationMunich Electrification is an innovative company founded with the aim of accelerating the transition to electric and connected mobili...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-junior-engineer-typescript-python-devops-ai-data-berlin-138277",
+      "title": "Junior Engineer (Typescript / Python / DevOps / AI / Data)",
+      "company": "Almedia",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-25T03:43:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/junior-engineer-typescript-python-devops-ai-data-berlin-138277",
+      "tags": [
+        "Tech"
+      ],
+      "description": "Our bar is high, and this is the best place for ambitious builders.Bootstrapped and profitable from day one, Almedia is Germany’s fastest-growing company (FT100...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-growth-manager-business-expansion-berlin-346434",
+      "title": "Growth Manager - Business Expansion (Berlin)",
+      "company": "Almedia",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-25T03:43:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/growth-manager-business-expansion-berlin-346434",
+      "tags": [
+        "Growth"
+      ],
+      "description": "Our bar is high, and this is the best place for ambitious builders.Bootstrapped and profitable from day one, Almedia is Germany’s fastest-growing company (FT100...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-growth-manager-business-expansion-berlin-485357",
+      "title": "Senior Growth Manager - Business Expansion (Berlin)",
+      "company": "Almedia",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-25T03:43:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/senior-growth-manager-business-expansion-berlin-485357",
+      "tags": [
+        "Growth"
+      ],
+      "description": "Our bar is high, and this is the best place for ambitious builders.Bootstrapped and profitable from day one, Almedia is Germany’s fastest-growing company (FT100...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-growth-manager-strategic-accounts-berlin-328227",
+      "title": "Growth Manager - Strategic Accounts (Berlin)",
+      "company": "Almedia",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-25T03:43:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/growth-manager-strategic-accounts-berlin-328227",
+      "tags": [
+        "Growth"
+      ],
+      "description": "Our bar is high, and this is the best place for ambitious builders.Bootstrapped and profitable from day one, Almedia is Germany’s fastest-growing company (FT100...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-growth-manager-strategic-accounts-berlin-342003",
+      "title": "Senior Growth Manager - Strategic Accounts (Berlin)",
+      "company": "Almedia",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-25T03:43:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/senior-growth-manager-strategic-accounts-berlin-342003",
+      "tags": [
+        "Growth"
+      ],
+      "description": "Our bar is high, and this is the best place for ambitious builders.Bootstrapped and profitable from day one, Almedia is Germany’s fastest-growing company (FT100...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-staff-platform-engineer-berlin-86627",
+      "title": "Staff Platform Engineer",
+      "company": "Almedia",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-25T03:43:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/staff-platform-engineer-berlin-86627",
+      "tags": [
+        "Tech"
+      ],
+      "description": "Our bar is high, and this is the best place for ambitious builders.Bootstrapped and profitable from day one, Almedia is Germany’s fastest-growing company (FT100...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-director-celebrity-talent-partnerships-berlin-356643",
+      "title": "Director, Celebrity & Talent Partnerships",
+      "company": "Almedia",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-25T03:43:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/director-celebrity-talent-partnerships-berlin-356643",
+      "tags": [
+        "Growth"
+      ],
+      "description": "Our bar is high, and this is the best place for ambitious builders.Bootstrapped and profitable from day one, Almedia is Germany’s fastest-growing company (FT100...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-director-of-product-design-berlin-119558",
+      "title": "Director of Product & Design",
+      "company": "Almedia",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-25T03:43:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/almedia/director-of-product-design-berlin-119558",
+      "tags": [
+        "Product"
+      ],
+      "description": "Our bar is high, and this is the best place for ambitious builders.Bootstrapped and profitable from day one, Almedia is Germany’s fastest-growing company (FT100...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-people-partner-all-genders-munchen-326616",
+      "title": "Senior People Partner (all genders)",
+      "company": "Wemolo",
+      "company_logo": "",
+      "category": "finance",
+      "location": "Munich",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-25T03:43:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/senior-people-partner-all-genders-munchen-326616",
+      "tags": [
+        "Finance & People"
+      ],
+      "description": "Bist du bereit, dich mit uns auf eine spannende Reise zu begeben? Wir leben #own (y)our growth und fördern ein Umfeld, in dem Innovation und persönliche Entwick...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-legal-counsel-it-data-protection-berlin-336827",
+      "title": "Legal Counsel - IT & Data Protection",
+      "company": "AMBOSS",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Berlin",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-25T03:43:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/amboss/legal-counsel-it-data-protection-berlin-336827",
+      "tags": [
+        "General & Administration"
+      ],
+      "description": "Hi, we’re AMBOSS and we’re searching for a Legal Counsel to support our business in IT &amp; Data Protection matters!About AMBOSSAMBOSS is the copilot for medic...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-fullstack-software-engineer-munich-440359",
+      "title": "Fullstack Software Engineer (m/f/d)",
+      "company": "Dataguard",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Munich",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-25T03:43:13.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/dataguard/fullstack-software-engineer-munich-440359",
       "tags": [
         "Engineering"
       ],
-      "description": "The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, an...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-remote-recruiter-talent-acquisition-manager-essen-106926",
-      "title": "Recruiter / Talent Acquisition Manager (m/w/d)",
-      "company": "Hypertrics GmbH",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Homeoffice",
-      "type": "Remote",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T06:31:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/hypertrics-gmbh/remote-recruiter-talent-acquisition-manager-essen-106926",
-      "tags": [
-        "Remote"
-      ],
-      "description": "Recruiter / Talent Acquisition Manager (m/w/d)Standort: Essen | Vollzeit | UnbefristetHypertrics ist eine wachstumsstarke HR-Tech-Plattform mit Sitz in Essen, d...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-embedded-arm-engineer-quantum-computing-siegen-18228",
-      "title": "Senior Embedded (ARM) Engineer - Quantum Computing (f/m/d)",
-      "company": "eleQtron GmbH",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Siegen, Nordrhein-Westfalen, Germany",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T06:31:20.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/eleqtron-gmbh/senior-embedded-arm-engineer-quantum-computing-siegen-18228",
-      "tags": [
-        "Quantum Firmware"
-      ],
-      "description": "eleQtron develops and operates full-stack quantum computers based on trapped-ion technology. Quantum computing is a new computing paradigm rapidly approaching c...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-devops-engineer-infrastructure-developer-enablement-berlin-351197",
-      "title": "DevOps Engineer – Infrastructure & Developer Enablement",
-      "company": "wabcon",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Berlin",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T06:30:38.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/wabcon/devops-engineer-infrastructure-developer-enablement-berlin-351197",
-      "tags": [
-        "System and Network Administration"
-      ],
-      "description": "Unser Kunde entwickelt digitale Lösungen in einem sicherheitskritischen Umfeld und setzt auf moderne Technologien, agile Teams und höchste Qualitätsstandards.Zu...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-founding-ceo-hamburg-478435",
-      "title": "Founding CEO (m/w/d)",
-      "company": "Evidio GmbH",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Hamburg",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T06:00:34.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/evidio-gmbh/founding-ceo-hamburg-478435",
-      "tags": [
-        "Directors",
-        "Chief Executives"
-      ],
-      "description": "Founding CEO (m/f/d), Evidio GmbHBuild the company that makes hiring evidence-based: with a live product, €750k funding and up to 50% equity for the founding te...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-founding-account-executive-dach-advertising-and-video-production-berlin-244993",
-      "title": "Founding Account Executive, DACH — Advertising and Video Production",
-      "company": "Higgsfield",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Remote, Germany",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T03:43:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/higgsfield/founding-account-executive-dach-advertising-and-video-production-berlin-244993",
-      "tags": [
-        "Marketing & Sales"
-      ],
-      "description": "Why work at Higgsfield AI?We're the fastest-scaling generative AI company in history, hitting $1B in annual revenue run rate, 30M+ users worldwide, and powering...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-remote-content-editor-274931",
-      "title": "Content Editor",
-      "company": "Higgsfield",
-      "company_logo": "",
-      "category": "tech",
-      "location": "Remote",
-      "type": "Remote",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T03:43:35.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/higgsfield/remote-content-editor-274931",
-      "tags": [
-        "Customer Experience"
-      ],
-      "description": "Why work at Higgsfield AI?Higgsfield AI is the fastest-scaling generative AI company in history, hitting $1B in annual revenue run rate, 30M+ users worldwide, 6...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-team-lead-sales-steuerkanzleien-b2b-saas-fintech-scale-up-berlin-98258",
-      "title": "Team Lead Sales – Steuerkanzleien (m/w/d) | B2B SaaS Fintech Scale-up, Berlin",
-      "company": "Pennylane",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Berlin Office",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-24T03:43:32.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/team-lead-sales-steuerkanzleien-b2b-saas-fintech-scale-up-berlin-98258",
-      "tags": [
-        "Sales"
-      ],
-      "description": "Du willst als Team Lead Sales in Berlin ein Vertriebsteam führen und gleichzeitig mitgestalten, wie Pennylane Steuerkanzleien in Deutschland gewinnt? Als erste ...",
+      "description": "YOUR JOBAI can write code now. It can't decide what's worth building, and it can't tell whether its own output is right. That part is yours. As a Fullstack Soft...",
       "verified": true,
       "source": "Arbeitnow Verified"
     }
