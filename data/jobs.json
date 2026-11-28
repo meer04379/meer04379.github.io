@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T07:05:55.186Z",
+  "updated_at": "2026-11-28T06:39:39.706Z",
   "total_count": 33,
   "jobs": [
     {
@@ -11,7 +11,7 @@
       "location": "Pan India / Central Govt Departments",
       "type": "Full Time (Govt)",
       "salary": "Pay Level 7 (₹44,900 - ₹1,42,400)",
-      "published_at": "2026-11-27T07:05:55.186Z",
+      "published_at": "2026-11-28T06:39:39.706Z",
       "url": "https://ssc.gov.in/",
       "tags": [
         "SSC CGL",
@@ -31,7 +31,7 @@
       "location": "All India Bank Branches",
       "type": "Full Time (Banking)",
       "salary": "Basic Pay ₹41,960 + DA, HRA, Perks",
-      "published_at": "2026-11-27T07:05:55.186Z",
+      "published_at": "2026-11-28T06:39:39.706Z",
       "url": "https://sbi.co.in/web/careers",
       "tags": [
         "Bank PO",
@@ -51,7 +51,7 @@
       "location": "Pan India Railway Zones",
       "type": "Govt Technical",
       "salary": "Level 6 CPC Matrix",
-      "published_at": "2026-11-27T07:05:55.186Z",
+      "published_at": "2026-11-28T06:39:39.706Z",
       "url": "https://indianrailways.gov.in/",
       "tags": [
         "RRB JE",
@@ -61,6 +61,27 @@
       "description": "Recruitment of Junior Engineers in Civil, Electrical, Mechanical and IT cadres.",
       "verified": true,
       "source": "Railway Recruitment"
+    },
+    {
+      "id": "remotive-2091212",
+      "title": "Produktspezialist:in (German-speaking)",
+      "company": "Creative Force ",
+      "company_logo": "https://remotive.com/job/2091212/logo",
+      "category": "tech",
+      "location": "Europe, EMEA, Germany, European timezones",
+      "type": "Remote",
+      "salary": "Competitive / Best in Industry",
+      "published_at": "2026-11-25T11:26:35",
+      "url": "https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212",
+      "tags": [
+        "api",
+        "CSS",
+        "html",
+        "javascript"
+      ],
+      "description": "You know SaaS. You like helping people get it right. And you'd rather have a real conversation than a hard sell.\nDo you speak German natively and want to help o...",
+      "verified": true,
+      "source": "Remotive Verified"
     },
     {
       "id": "remotive-2091179",
@@ -352,293 +373,272 @@
       "source": "Remotive Verified"
     },
     {
-      "id": "remotive-2091165",
-      "title": "Full-Stack Developer",
-      "company": "Fluence International, Inc.",
-      "company_logo": "https://remotive.com/job/2091165/logo",
-      "category": "tech",
-      "location": "Worldwide",
-      "type": "Remote",
-      "salary": "$3.5k–$5k/month",
-      "published_at": "2026-10-29T18:22:41",
-      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
-      "tags": [
-        "admin",
-        "api",
-        "AWS",
-        "backend"
-      ],
-      "description": "We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organiza...",
-      "verified": true,
-      "source": "Remotive Verified"
-    },
-    {
-      "id": "arbeit-senior-manager-commodities-energy-trading-dusseldorf-munich-226716",
-      "title": "(Senior) Manager (m/w/d), Commodities & Energy Trading",
-      "company": "Baringa",
+      "id": "arbeit-it-working-student-munich-165542",
+      "title": "IT Working Student",
+      "company": "Kertos",
       "company_logo": "",
       "category": "tech",
-      "location": "Dusseldorf; Munich",
+      "location": "Munich",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T03:55:16.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/baringa/senior-manager-commodities-energy-trading-dusseldorf-munich-226716",
+      "published_at": "2026-11-28T03:43:08.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/kertos/it-working-student-munich-165542",
       "tags": [
-        "Commodities and Energy Trading"
+        "Product & Tech"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 53, 142); font-family: helvetica, arial, sans-serif;&quot;&gt;About Bari...",
+      "description": "Compliance is what stands between a European company and its next enterprise deal. Kertos clears it. Information security, data protection, and AI management ru...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-head-of-sales-fund-administration-vc-pe-private-markets-berlin-387293",
-      "title": "Head of Sales | Fund Administration | VC & PE | Private Markets (f/m/d)",
-      "company": "bunch",
+      "id": "arbeit-account-executive-german-speaking-all-genders-munich-62972",
+      "title": "Account Executive - German Speaking (all genders)",
+      "company": "Kertos",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Munich",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-28T03:43:08.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/kertos/account-executive-german-speaking-all-genders-munich-62972",
+      "tags": [
+        "Growth"
+      ],
+      "description": "Compliance is what stands between a European company and its next enterprise deal. Kertos clears it. Information security, data protection, and AI management ru...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-forward-deployed-engineer-intern-berlin-491734",
+      "title": "Forward Deployed Engineer (Intern)",
+      "company": "Lyceum",
       "company_logo": "",
       "category": "tech",
       "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T03:43:05.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/bunch/head-of-sales-fund-administration-vc-pe-private-markets-berlin-387293",
+      "published_at": "2026-11-28T03:43:04.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/lyceum/forward-deployed-engineer-intern-berlin-491734",
       "tags": [
-        "Commercial"
+        "GTM"
       ],
-      "description": "bunch is building the backbone of private markets. We are enabling next-gen fund operations with one integrated system that combines secure data infrastructure,...",
+      "description": "The RoleAs a Forward Deployed Engineer Intern, you work on the technical side of our customer relationships, before and after the deal. You help customers figur...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-sales-development-representative-berlin-292735",
-      "title": "Senior Sales Development Representative (m/w/d)",
-      "company": "Ralph",
+      "id": "arbeit-remote-team-lead-customer-support-272017",
+      "title": "Team Lead Customer Support (f/m/d)",
+      "company": "plancraft",
       "company_logo": "",
       "category": "tech",
-      "location": "Berlin HQ",
+      "location": "Remote (within Germany)",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T03:43:03.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/ralph/senior-sales-development-representative-berlin-292735",
+      "published_at": "2026-11-28T03:43:02.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/plancraft/remote-team-lead-customer-support-272017",
       "tags": [
-        "M&A"
+        "Customer Success"
       ],
-      "description": "Ralph baut das Operating System für Wohnimmobilien. Der Markt ist riesig, und er läuft noch größtenteils auf Aktenordnern, Outlook und USB-Sticks. Wir sind der ...",
+      "description": "UNSER PURPOSE BEI PLANCRAFTGemeinsam das Rückgrat des europäischen Handwerks aufbauen – mit moderner Software und smarten AI-Lösungen.Wir entwickeln nicht einfa...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-founders-associate-berlin-348193",
-      "title": "Founders Associate (m/w/d)",
-      "company": "Ralph",
+      "id": "arbeit-staff-backend-engineer-search-features-apis-sabr-munich-460585",
+      "title": "Staff Backend Engineer - Search Features & APIs (SABR)",
+      "company": "Constructor",
       "company_logo": "",
       "category": "tech",
-      "location": "Berlin",
+      "location": "Remote",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T03:43:03.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/ralph/founders-associate-berlin-348193",
+      "published_at": "2026-11-28T03:43:02.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructor/staff-backend-engineer-search-features-apis-sabr-munich-460585",
       "tags": [
-        "CEO Office"
+        "Engineering"
       ],
-      "description": "Ralph baut das Operating System für Wohnimmobilien. Der Markt ist riesig, und er läuft noch größtenteils auf Aktenordnern, Outlook und USB-Sticks. Wir sind der ...",
+      "description": "About usLaunched in 2019, Constructor is an AI-first e-commerce search and discovery platform that helps shoppers find the right products at the right time and ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-mannager-strategic-accounts-financial-services-tmt-r-20180-frankfurt-germany-96250",
-      "title": "Senior Mannager Strategic Accounts Financial Services & TMT  - m/f/d (R-20180)",
-      "company": "Dnb",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Frankfurt - Germany",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T03:08:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/dnb/senior-mannager-strategic-accounts-financial-services-tmt-r-20180-frankfurt-germany-96250",
-      "tags": [
-        "Sales"
-      ],
-      "description": "Shape the Future with Dun &amp; Bradstreet\nAt Dun &amp; Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business de...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-account-director-public-sector-r-20125-frankfurt-germany-168176",
-      "title": "Account Director, Public Sector - m/f/d (R-20125)",
-      "company": "Dnb",
-      "company_logo": "",
-      "category": "marketing",
-      "location": "Frankfurt - Germany",
-      "type": "Full Time",
-      "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T03:08:23.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/dnb/account-director-public-sector-r-20125-frankfurt-germany-168176",
-      "tags": [
-        "Sales"
-      ],
-      "description": "Shape the Future with Dun &amp; Bradstreet\nAt Dun &amp; Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business de...",
-      "verified": true,
-      "source": "Arbeitnow Verified"
-    },
-    {
-      "id": "arbeit-senior-machine-learning-engineer-munich-germany-5311",
-      "title": "Senior Machine Learning Engineer",
-      "company": "CesiumAstro",
+      "id": "arbeit-senior-web-analyst-leipzig-435353",
+      "title": "(Senior) Web Analyst (f/m/d)",
+      "company": "Spread Group",
       "company_logo": "",
       "category": "tech",
-      "location": "Munich, Germany",
+      "location": "Leipzig, Sachsen, Germany",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T03:08:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/cesiumastro/senior-machine-learning-engineer-munich-germany-5311",
+      "published_at": "2026-11-28T03:31:24.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/spread-group/senior-web-analyst-leipzig-435353",
       "tags": [
-        "Advanced Product Development"
+        "Digital & Consumer Analytics"
       ],
-      "description": "At&nbsp;CesiumAstro, we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne ...",
+      "description": "Who We AreSpread Group is a renowned global provider of customized apparel and lifestyle products, distinguished by our commitment to made-to-order technology. ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-recruiter-hamburg-493591",
-      "title": "Senior Recruiter",
-      "company": "freiheit.com technologies",
+      "id": "arbeit-senior-data-engineer-berlin-334230",
+      "title": "Senior Data Engineer (w/m/d)",
+      "company": "Arsipa GmbH",
       "company_logo": "",
       "category": "tech",
-      "location": "Hamburg",
+      "location": "Berlin, Berlin, Deutschland",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T03:08:22.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/freiheitcom-technologies/senior-recruiter-hamburg-493591",
+      "published_at": "2026-11-28T03:31:18.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/arsipa-gmbh/senior-data-engineer-berlin-334230",
       "tags": [
-        "People"
+        "Arsipa GmbH"
       ],
-      "description": "\n\nÜBER UNSERE COMPANY\nfreiheit.com wurde 1999 in Hamburg gegründet und entwickelt seitdem custom large-scale Softwareprodukte. Unsere Mission ist: “Ship great s...",
+      "description": "Du möchtest moderne Datenplattformen entwickeln, skalierbare Datenarchitekturen gestalten und die datengetriebene Weiterentwicklung einer wachsenden Unternehmen...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-director-corporate-communications-frankfurt-277617",
-      "title": "Director, Corporate Communications",
-      "company": "Teneo",
+      "id": "arbeit-ingenieur-innen-techniker-innen-und-werkstudent-innen-dorsten-23343",
+      "title": "Ingenieur_innen, Techniker_innen und Werkstudent_innen (m/w/d)",
+      "company": "Stadtverwaltung Dorsten",
       "company_logo": "",
       "category": "tech",
-      "location": "Frankfurt",
+      "location": "Dorsten, Nordrhein-Westfalen, Deutschland",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T00:55:17.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/teneo/director-corporate-communications-frankfurt-277617",
+      "published_at": "2026-11-28T03:31:18.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/stadtverwaltung-dorsten/ingenieur-innen-techniker-innen-und-werkstudent-innen-dorsten-23343",
       "tags": [
-        "Strategy & Communications Germany"
+        "Ingenieurwesen"
       ],
-      "description": "&lt;p&gt;Teneo is the global CEO advisory firm, working with the world’s leading companies to solve their most complex business challenges. We provide strategic...",
+      "description": "Deine Zukunft bei der Stadt Dorsten – Gestalte mit uns eine lebenswerte Stadt!Willst Du etwas bewegen? Dann komm zu uns und mach Dorsten zu Deiner Bühne! Mit De...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-director-corporate-communications-berlin-206621",
-      "title": "Director, Corporate Communications",
-      "company": "Teneo",
+      "id": "arbeit-transaction-services-manager-senior-manager-frankfurt-am-main-162048",
+      "title": "Transaction Services Manager - Senior Manager",
+      "company": "EIGHT ADVISORY SAS",
       "company_logo": "",
       "category": "tech",
-      "location": "Berlin",
+      "location": "Frankfurt am Main, Hesse, Allemagne",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T00:55:17.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/teneo/director-corporate-communications-berlin-206621",
+      "published_at": "2026-11-28T03:31:16.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/eight-advisory-sas/transaction-services-manager-senior-manager-frankfurt-am-main-162048",
       "tags": [
-        "Strategy & Communications Germany"
+        "TS - Transaction Services"
       ],
-      "description": "&lt;p style=&quot;margin: 0px; padding: 0px; border: 0px currentColor; color: rgba(0, 0, 0, 0.75); line-height: 1.4285; letter-spacing: normal; font-family: -ap...",
+      "description": "Eight Advisory was founded in 2009 in France by 8 former partners of Arthur Andersen / Big4 companies as a firm specialized in Transaction Services, Restructuri...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-sem-manager-371298",
-      "title": "Senior SEM Manager",
-      "company": "Quince",
+      "id": "arbeit-remote-senior-data-scientist-118803",
+      "title": "Senior Data Scientist (m/f/d)",
+      "company": "Sport Alliance GmbH",
       "company_logo": "",
       "category": "tech",
-      "location": "Europe/Global",
+      "location": "Remote (Germany)",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T00:55:13.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/quince/senior-sem-manager-371298",
+      "published_at": "2026-11-28T03:07:35.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/sport-alliance-gmbh/remote-senior-data-scientist-118803",
       "tags": [
-        "International"
+        "Data Operations"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;ABOUT QUINCE&lt;/strong&gt;&lt;/span...",
+      "description": "\nJoin Sport Alliance’s Data Products team and build ML solutions for Magicline and PerfectGym Next, used by thousands of fitness businesses and millions of memb...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-category-manager-womens-wovens-uk-eu-342168",
-      "title": "Senior Category Manager, Women's - Wovens UK/EU",
-      "company": "Quince",
+      "id": "arbeit-senior-account-executive-automotive-dusseldorf-168804",
+      "title": "Senior Account Executive - Automotive",
+      "company": "Infinit",
       "company_logo": "",
       "category": "tech",
-      "location": "Europe/Global",
+      "location": "Dusseldorf",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T00:55:13.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/quince/senior-category-manager-womens-wovens-uk-eu-342168",
+      "published_at": "2026-11-28T03:07:31.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/infinit/senior-account-executive-automotive-dusseldorf-168804",
       "tags": [
-        "International"
+        "Growth - Germany"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;ABOUT QUINCE&lt;/strong&gt;&lt;/span...",
+      "description": "Job Title: Senior Account Executive \nType:&nbsp;Full-time\nExperience: 5+ years\n&nbsp;\nWhat about us?\n&nbsp;\nLaunched in 2023, INFINIT is a fast-growing fintech ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-category-manager-home-bedding-uk-eu-66061",
-      "title": "Senior Category Manager, Home - Bedding UK/EU",
-      "company": "Quince",
+      "id": "arbeit-senior-account-executive-automotive-munich-394859",
+      "title": "Senior Account Executive - Automotive",
+      "company": "Infinit",
       "company_logo": "",
       "category": "tech",
-      "location": "Europe/Global",
+      "location": "Munich",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T00:55:13.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/quince/senior-category-manager-home-bedding-uk-eu-66061",
+      "published_at": "2026-11-28T03:07:31.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/infinit/senior-account-executive-automotive-munich-394859",
       "tags": [
-        "International"
+        "Growth - Germany"
       ],
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;ABOUT QUINCE&lt;/strong&gt;&lt;/span...",
+      "description": "Job Title: Senior Account Executive \nType:&nbsp;Full-time\nExperience: 5+ years\n&nbsp;\nWhat about us?\n&nbsp;\nLaunched in 2023, INFINIT is a fast-growing fintech ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-senior-account-executive-germany-pubsec-berlin-germany-466760",
-      "title": "Senior Account Executive, Germany PUBSEC (Berlin, Germany)",
-      "company": "Cohere",
+      "id": "arbeit-senior-account-executive-automotive-cologne-426858",
+      "title": "Senior Account Executive - Automotive",
+      "company": "Infinit",
+      "company_logo": "",
+      "category": "tech",
+      "location": "Cologne",
+      "type": "Full Time",
+      "salary": "As per Industry Standards",
+      "published_at": "2026-11-28T03:07:31.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/infinit/senior-account-executive-automotive-cologne-426858",
+      "tags": [
+        "Growth - Germany"
+      ],
+      "description": "Job Title: Senior Account Executive \nType:&nbsp;Full-time\nExperience: 5+ years\n&nbsp;\nWhat about us?\n&nbsp;\nLaunched in 2023, INFINIT is a fast-growing fintech ...",
+      "verified": true,
+      "source": "Arbeitnow Verified"
+    },
+    {
+      "id": "arbeit-senior-account-executive-automotive-berlin-281715",
+      "title": "Senior Account Executive - Automotive",
+      "company": "Infinit",
       "company_logo": "",
       "category": "tech",
       "location": "Berlin",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T00:40:14.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/cohere/senior-account-executive-germany-pubsec-berlin-germany-466760",
+      "published_at": "2026-11-28T03:07:31.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/infinit/senior-account-executive-automotive-berlin-281715",
       "tags": [
-        "Revenue"
+        "Growth - Germany"
       ],
-      "description": "Who are we?Cohere is the leading security-first enterprise AI company.  We build cutting-edge foundation AI models and end-to-end products that are designed to ...",
+      "description": "Job Title: Senior Account Executive \nType:&nbsp;Full-time\nExperience: 5+ years\n&nbsp;\nWhat about us?\n&nbsp;\nLaunched in 2023, INFINIT is a fast-growing fintech ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     },
     {
-      "id": "arbeit-account-executive-dach-ai-supply-chain-saas-ae-munich-292368",
-      "title": "Account Executive (DACH) | AI Supply Chain SaaS AE (d/f/m)",
-      "company": "Luminovo GmbH",
+      "id": "arbeit-senior-backend-engineer-clickpipes-platform-berlin-352261",
+      "title": "Senior Backend Engineer - ClickPipes Platform",
+      "company": "Clickhouse",
       "company_logo": "",
       "category": "tech",
-      "location": "🇩🇪 Munich (hybrid)",
+      "location": "Germany",
       "type": "Full Time",
       "salary": "As per Industry Standards",
-      "published_at": "2026-11-27T00:40:14.000Z",
-      "url": "https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/account-executive-dach-ai-supply-chain-saas-ae-munich-292368",
+      "published_at": "2026-11-28T00:40:16.000Z",
+      "url": "https://www.arbeitnow.com/jobs/companies/clickhouse/senior-backend-engineer-clickpipes-platform-berlin-352261",
       "tags": [
-        "Revenue"
+        "Engineering"
       ],
-      "description": "About the roleElectronics is a trillion-dollar industry that still runs on spreadsheets, email threads and part-search tabs. Luminovo is the AI platform that re...",
+      "description": "About the TeamThe ClickPipes team builds the services that power data ingestion into ClickHouse Cloud. As a primary entry point for customers’ data, ClickPipes ...",
       "verified": true,
       "source": "Arbeitnow Verified"
     }
